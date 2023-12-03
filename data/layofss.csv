@@ -1,0 +1,2530 @@
+company;laid_off;date;percentage;industry;stage;raised(mm);country
+Loco;40;30/11/2023;36%;Consumer;Acquired;$52;India
+Zepz;30;30/11/2023;2%;Finance;Series E;$700;United Kingdom
+Domo;;30/11/2023;7%;Data;Post-IPO;$689;United States
+Pipedrive;;30/11/2023;;Sales;Private Equity;$90;Estonia
+Vox Media;;30/11/2023;4%;Media;Series F;$307;United States
+Unity;265;28/11/2023;4%;Other;Post-IPO;$1,300;United States
+Dataminr;150;28/11/2023;20%;AI;Series F;$1,100;United States
+Multiverse;;28/11/2023;5%;Education;Series D;$414;United Kingdom
+Tier Mobility;;28/11/2023;22%;Transportation;Series D;$646;Germany
+VMware;2000;27/11/2023;;Infrastructure;Acquired;$393;United States
+Bytedance;1000;27/11/2023;;Consumer;Unknown;$9,400;China
+Our Next Energy;128;27/11/2023;25%;Transportation;Series B;$390;United States
+Veev;;26/11/2023;100%;Construction;Series D;$597;United States
+Anar;;25/11/2023;100%;Marketing;Seed;$6;India
+Alerzo;100;21/11/2023;;Retail;Series B;$16;Nigeria
+McMakler;60;21/11/2023;;Real Estate;Unknown;$214;Germany
+Tulip Retail;25;21/11/2023;;Retail;Series C;$79;Canada
+Jodo;100;20/11/2023;;Finance;Series A;$19;India
+C3.ai;;20/11/2023;;AI;Series F;$228;United States
+Physics Wallah;120;19/11/2023;1%;Education;Series A;$100;India
+NextGen Healthcare;84;17/11/2023;;Healthcare;Acquired;;United States
+Amazon;;17/11/2023;;Retail;Post-IPO;$108;United States
+Buildertrend;;17/11/2023;16%;Construction;Unknown;;United States
+Jane;;17/11/2023;100%;Retail;Series A;$40;United States
+Zazuu;;17/11/2023;;Finance;Unknown;;United Kingdom
+Sierra Space;115;16/11/2023;;Aerospace;Series B;$1,700;United States
+Paystack;33;16/11/2023;;Finance;Acquired;$10;Nigeria
+Beamery;;16/11/2023;25%;HR;Series D;$223;United Kingdom
+FintechOS;;15/11/2023;;Finance;Series B;$91;Romania
+FreshBooks;;15/11/2023;6%;Finance;Unknown;$331;Canada
+Landing;;15/11/2023;;Real Estate;Series C;$347;United States
+Singular Genomics;;15/11/2023;10%;Healthcare;Post-IPO;$176;United States
+Uleet;;15/11/2023;100%;Healthcare;Unknown;;United States
+Chewy;200;14/11/2023;;Retail;Post-IPO;$451;United States
+Cake Group;;14/11/2023;30%;Crypto;Unknown;;Singapore
+Halodoc;;14/11/2023;;Healthcare;Series D;$245;India
+Markforged;;14/11/2023;;Manufacturing;Post-IPO;$347;United States
+Ping Identity;;14/11/2023;;Security;Acquired;$128;United States
+Amazon;180;13/11/2023;;Retail;Post-IPO;$108;United States
+Carta;;9/11/2023;;HR;Series G;$1,100;United States
+OSlash;;9/11/2023;100%;Other;Seed;$7;India
+Snap;20;8/11/2023;;Consumer;Post-IPO;$4,900;United States
+Amazon;;8/11/2023;;Retail;Post-IPO;$108;United States
+BigCommerce;;8/11/2023;7%;Retail;Post-IPO;$224;United States
+CloudKitchens;;8/11/2023;;Real Estate;Unknown;$1,300;United States
+Google;;8/11/2023;;Consumer;Post-IPO;$26;United States
+Zillow;23;7/11/2023;;Real Estate;Post-IPO;$97;United States
+Nextdoor;;7/11/2023;25%;Consumer;Post-IPO;$736;United States
+Zeus Living;;7/11/2023;100%;Real Estate;Series C;$151;United States
+Ava Labs;;6/11/2023;12%;Crypto;Unknown;$640;United States
+Homie;;6/11/2023;;Real Estate;Series B;$35;United States
+Moore Threads;;6/11/2023;;Hardware;Series B;;China
+Pico Interactive;;6/11/2023;;Other;Acquired;$62;United States
+F5;120;3/11/2023;2%;Security;Post-IPO;;United States
+NIO;;3/11/2023;10%;Transportation;Post-IPO;$7,200;China
+OpenSea;;3/11/2023;50%;Crypto;Series C;$427;United States
+Viasat;800;2/11/2023;10%;Other;Post-IPO;$366;United States
+Beyond Meat;65;2/11/2023;8%;Food;Post-IPO;$122;United States
+OpenSpace;;2/11/2023;;Construction;Series D;$200;United States
+Orchard;;2/11/2023;;Real Estate;Series D;$472;United States
+Informatica;545;1/11/2023;10%;Data;Post-IPO;;United States
+Splunk;500;1/11/2023;7%;Data;Post-IPO;$2,400;United States
+Faire;250;1/11/2023;20%;Retail;Series G;$1,700;United States
+Sana Benefits;73;1/11/2023;50%;HR;Series B;$106;United States
+Olive;;31/10/2023;100%;Healthcare;Series H;$856;United States
+StepStone;215;30/10/2023;5%;Recruiting;Acquired;;Germany
+Hubilo;50;30/10/2023;;Other;Series B;$153;United States
+Karat Financial;;27/10/2023;;Finance;Series B;$116;United States
+Hippo Insurance;120;26/10/2023;20%;Finance;Post-IPO;$1,300;United States
+Graphy;50;26/10/2023;20%;Education;Subsidiary;;India
+Salsify;110;25/10/2023;;Retail;Unknown;$453;United States
+F-Secure;70;25/10/2023;;Security;Post-IPO;;Finland
+Virgio;20;25/10/2023;33%;Retail;Series A;;India
+Exabeam;;25/10/2023;20%;Security;Series F;$391;United States
+Multiverse;;25/10/2023;;Education;Series D;$414;United Kingdom
+Slync;;25/10/2023;100%;Logistics;Series B;$76;United States
+SiFive;130;24/10/2023;20%;Hardware;Series F;$365;United States
+Pebble;;24/10/2023;100%;Consumer;Seed;$1;United States
+Shipt;;24/10/2023;3%;Retail;Acquired;$65;United States
+Parity Technologies;100;23/10/2023;30%;Crypto;Unknown;;United Kingdom
+Roblox China;15;23/10/2023;;Consumer;Subsidiary;;China
+Nomad Health;119;20/10/2023;17%;Healthcare;Unknown;$218;United States
+Tropic;26;20/10/2023;;Finance;Series B;$67;United States
+Nomad Health;;20/10/2023;25%;Healthcare;Unknown;$218;United States
+Convoy;500;19/10/2023;100%;Logistics;Series E;$1,100;United States
+Bullhorn;140;19/10/2023;9%;Sales;Acquired;$32;United States
+LegalZoom;100;19/10/2023;;Legal;Post-IPO;$951;United States
+StellarAlgo;21;19/10/2023;28%;Data;Series A;$16;Canada
+ManoMano;230;18/10/2023;25%;Retail;Series F;$705;France
+Google;40;18/10/2023;;Consumer;Post-IPO;$26;United States
+WeTransfer;35;18/10/2023;10%;Other;Series A;$64;Netherlands
+Plume;24;18/10/2023;;Healthcare;Series B;$38;United States
+Made Renovation;;18/10/2023;100%;Construction;Seed;$9;United States
+Volta Trucks;;18/10/2023;100%;Transportation;Series C;$391;Sweden
+Expedia;100;17/10/2023;;Travel;Post-IPO;$3,300;United States
+Waymo;;17/10/2023;;Transportation;Subsidiary;$5,500;United States
+LinkedIn;660;16/10/2023;3%;Recruiting;Acquired;$154;United States
+CityMall;90;16/10/2023;;Retail;Series C;$112;India
+C2FO;80;16/10/2023;3%;Finance;Series H;$537;United States
+Kayak / OpenTable;80;16/10/2023;;Travel;Acquired;$229;United States
+Bandcamp;58;16/10/2023;50%;Other;Acquired;;United States
+Stack Overflow;;16/10/2023;28%;Recruiting;Acquired;$153;United States
+PokerStars;;15/10/2023;;Consumer;Acquired;;United Kingdom
+Adda247;300;14/10/2023;;Education;Series B;$61;India
+Flexport;;13/10/2023;20%;Logistics;Series E;$2,400;United States
+Uno Health;;13/10/2023;;Healthcare;Unknown;;United States
+Qualcomm;1258;12/10/2023;2%;Hardware;Post-IPO;;United States
+Lending Club;172;12/10/2023;14%;Finance;Post-IPO;$392;United States
+MariaDB;84;12/10/2023;28%;Data;Post-IPO;$272;United States
+Deepgram;20;11/10/2023;20%;AI;Series B;$86;United States
+Acronis;;11/10/2023;;Security;Private Equity;$658;Switzerland
+Stitch Fix;558;9/10/2023;;Retail;Post-IPO;$79;United States
+Carbon Health;114;9/10/2023;5%;Healthcare;Series D;$522;United States
+Blue Origin;40;9/10/2023;;Aerospace;Unknown;$167;United States
+Braid;;9/10/2023;100%;Finance;Unknown;;United States
+Product Hunt;;9/10/2023;60%;Consumer;Acquired;;United States
+InvestCloud;80;6/10/2023;5%;Finance;Private Equity;$54;United States
+Brave;;6/10/2023;9%;Consumer;Series B;$42;United States
+Dash;;6/10/2023;100%;Finance;Unknown;$86;United States
+Shift;;6/10/2023;100%;Transportation;Post-IPO;$504;United States
+Yuga Labs;;6/10/2023;;Crypto;Unknown;$450;United States
+Enovix;185;5/10/2023;;Energy;Post-IPO;$516;United States
+Bizongo;50;5/10/2023;;Retail;Series E;$315;India
+SchoolMint;29;5/10/2023;14%;Education;Acquired;$8;United States
+SeekOut;16;5/10/2023;7%;Recruiting;Series C;;United States
+Arrival;;5/10/2023;25%;Transportation;Post-IPO;$629;United Kingdom
+Ledger;;5/10/2023;12%;Crypto;Series C;$577;France
+Qualtrics;780;4/10/2023;14%;Other;Post-IPO;$400;United States
+Hopper;250;4/10/2023;30%;Travel;Unknown;$730;Canada
+Bird;;4/10/2023;;Transportation;Post-IPO;$916;United States
+Block;;4/10/2023;;Finance;Post-IPO;$150;United States
+Meta;;4/10/2023;;Consumer;Post-IPO;$26,000;United States
+Dare;;3/10/2023;;Energy;Unknown;;United Kingdom
+Sendoso;;3/10/2023;;Marketing;Series C;$152;United States
+Twitch;;3/10/2023;;Consumer;Acquired;$35;United States
+Chainalysis;150;2/10/2023;15%;Crypto;Series F;$536;United States
+Synapse;86;2/10/2023;40%;Finance;Series B;$50;United States
+Chia Network;26;2/10/2023;37%;Crypto;Series D;$70;United States
+IronNet;;2/10/2023;100%;Security;Post-IPO;$428;United States
+Sono Motors;;2/10/2023;;Transportation;Post-IPO;$127;Germany
+Cowbell;28;29/9/2023;12%;Finance;Series B;$123;United States
+N26;14;29/9/2023;;Finance;Series E;$1,700;Germany
+Andgo;9;29/9/2023;;HR;Series A;$5;Canada
+Vendasta;;29/9/2023;;Marketing;Series D;$178;Canada
+Epic Games;870;28/9/2023;16%;Consumer;Unknown;$6,400;United States
+Lululemon Studio;120;28/9/2023;;Fitness;Acquired;$75;United States
+2U;;28/9/2023;;Education;Post-IPO;$426;United States
+Fit Analytics;;28/9/2023;100%;Retail;Acquired;;United States
+Snap;170;27/9/2023;;Consumer;Post-IPO;$4,900;United States
+Fi.Money;30;27/9/2023;10%;Finance;Series C;$137;India
+Dunzo;150;26/9/2023;30%;Food;Unknown;$458;India
+Flexe;131;26/9/2023;33%;Logistics;Series D;$263;United States
+Talkdesk;;26/9/2023;;Support;Series D;$497;United States
+Lucid Software;75;25/9/2023;7%;Other;Series E;$170;United States
+Eat Just;40;22/9/2023;;Food;Unknown;$465;United States
+Appsmith;35;22/9/2023;25%;;Series B;$51;United States
+Roblox;30;22/9/2023;;Consumer;Post-IPO;$857;United States
+Foodpanda;;22/9/2023;;Food;Acquired;$749;Singapore
+Recast;;22/9/2023;100%;Media;Series A;$14;United Kingdom
+DealShare;130;21/9/2023;;Retail;Series E;$390;India
+Merative;100;21/9/2023;;Healthcare;Acquired;;United States
+Robinhood;;21/9/2023;;Finance;Post-IPO;$5,600;United States
+Outreach;;20/9/2023;12%;Sales;Series G;$489;United States
+Truss Works;;20/9/2023;;Real Estate;Unknown;;United States
+Nowadays;;18/9/2023;100%;Food;Seed;$10;United States
+Cisco;350;17/9/2023;;Infrastructure;Post-IPO;$2;United States
+Hooray Foods;;17/9/2023;100%;Food;Seed;$7;United States
+Sage Therapeutics copy;290;15/9/2023;;Healthcare;Post-IPO;$438;United States
+7shifts;30;15/9/2023;7%;Food;Series C;$131;Canada
+Velocity;;15/9/2023;14%;Finance;Series A;$30;India
+Airtable;237;14/9/2023;27%;Product;Series F;$1,400;United States
+Project44;116;14/9/2023;;Logistics;Unknown;$817;United States
+VideoAmp;40;14/9/2023;10%;Marketing;Series F;$456;United States
+R3;;14/9/2023;20%;Crypto;Series A;$112;United States
+Google;75;13/9/2023;;Consumer;Post-IPO;$26;United States
+Akili Labs;;13/9/2023;40%;Healthcare;Post-IPO;$301;United States
+Evolve;175;12/9/2023;20%;Travel;Series F;$224;United States
+Binance.US;100;12/9/2023;33%;Crypto;Subsidiary;;United States
+Paper;87;12/9/2023;3%;Education;Series D;$389;Canada
+Homeday;40;12/9/2023;20%;Real Estate;Unknown;$71;Germany
+At-Bay;27;12/9/2023;9%;Security;Unknown;$296;United States
+Eurora;111;11/9/2023;;Other;Series A;$42;Estonia
+Chargebee;100;11/9/2023;10%;Finance;Series H;$468;United States
+Divvy Homes;94;11/9/2023;;Real Estate;Series B;$180;United States
+Grabango;34;11/9/2023;40%;Food;Unknown;$94;United States
+Bonterra;;11/9/2023;;Other;Unknown;;United States
+Mollie;;11/9/2023;;Finance;Series C;$928;Netherlands
+Oyster;;11/9/2023;;HR;Series C;$224;United States
+ChargePoint;;8/9/2023;10%;Manufacturing;Unknown;$1,400;United States
+Sensor Tower;;8/9/2023;;Marketing;Private Equity;$46;United States
+Drift;100;7/9/2023;25%;Marketing;Acquired;$107;United States
+Hijra;;7/9/2023;;Finance;Unknown;$67;Indonesia
+Roku;360;6/9/2023;10%;Media;Post-IPO;$208;United States
+ForeScout;40;6/9/2023;;Security;Acquired;$125;United States
+Better.com;;6/9/2023;;Real Estate;Unknown;$905;United States
+Blue Origin;;6/9/2023;;Aerospace;Unknown;$167;United States
+iSpecimen;;6/9/2023;20%;Healthcare;Post-IPO;$31;United States
+MaxMilhas;82;5/9/2023;18%;Travel;Unknown;;Brazil
+Absci;30;5/9/2023;15%;Healthcare;Post-IPO;$238;United States
+Hodinkee;24;5/9/2023;20%;Retail;Seed;$40;United States
+Talent.com;;5/9/2023;;Recruiting;Series B;$150;Canada
+mPharma;150;4/9/2023;;Healthcare;Series D;$90;Ghana
+Xolo;24;4/9/2023;;Finance;Series A;$11;Estonia
+Nexar;17;4/9/2023;14%;Transportation;Series D;$149;United States
+Khatabook;42;1/9/2023;;Finance;Series C;$187;India
+Clearcover;;1/9/2023;28%;Finance;Series D;$304;United States
+Gated;;1/9/2023;100%;Other;Seed;$3;United States
+Lunchtime;;1/9/2023;100%;Food;Acquired;;Czech Republic
+Pegasystems;240;31/8/2023;4%;HR;Post-IPO;;United States
+Biofourmis;120;31/8/2023;;Healthcare;Series D;$464;United States
+Malwarebytes;100;31/8/2023;;Security;Series B;$80;United States
+Expedia;;31/8/2023;;Travel;Post-IPO;$3,300;United States
+SkyKick;140;30/8/2023;;Other;Unknown;$198;United States
+Omuni;60;30/8/2023;35%;Retail;Acquired;$10;India
+Kenko Health;50;30/8/2023;20%;Healthcare;Series A;$14;India
+Huma;45;30/8/2023;10%;Healthcare;Unknown;$217;United Kingdom
+Zeplin;37;30/8/2023;35%;Product;Seed;$1;United States
+Kenko Health;50;29/8/2023;20%;Healthcare;Unknown;$14;India
+123Milhas;;29/8/2023;;Travel;Unknown;;Brazil
+Zebra Technologies;700;28/8/2023;7%;Manufacturing;Post-IPO;$2,000;United States
+CoinSwitch;44;28/8/2023;;Crypto;Series C;$301;India
+Clockwork;;28/8/2023;100%;Crypto;Seed;$4;United States
+SenseTime;;28/8/2023;;AI;Post-IPO;$2,600;Hong Kong
+HackerRank;53;27/8/2023;;Recruiting;Series D;$103;United States
+Cuemath;100;26/8/2023;;Education;Unknown;$121;India
+Fortinet;;25/8/2023;;Security;Post-IPO;$89;United States
+Captiv8;8;24/8/2023;3%;Marketing;Unknown;$4;United States
+Chingari;;24/8/2023;50%;Media;Unknown;$88;India
+Atlas;150;23/8/2023;30%;HR;Series B;$220;United States
+Veriff;101;23/8/2023;21%;Security;Series C;$192;Estonia
+BlackLine;95;23/8/2023;5%;Finance;Post-IPO;$220;United States
+Rivos;24;23/8/2023;6%;Hardware;Unknown;;United States
+Cellulant;;23/8/2023;20%;Finance;Series C;$54;Kenya
+JOIN;;23/8/2023;;Recruiting;Unknown;;Germany
+Getir;2500;22/8/2023;11%;Food;Series E;$1,800;United Kingdom
+CoinDCX;;22/8/2023;12%;Crypto;Series D;$247;India
+Datagen;;22/8/2023;;AI;Series B;$72;Israel
+Hypefast;;22/8/2023;30%;Retail;Series A;$33;Indonesia
+Tempo Automation;;22/8/2023;;Other;Post-IPO;$154;United States
+Recur;;21/8/2023;;Crypto;Series A;$55;United States
+Unite Us;;21/8/2023;;Healthcare;Series C;$196;United States
+Twiga;283;20/8/2023;33%;Food;Series C;$157;Kenya
+Spartan Poker;125;19/8/2023;40%;Consumer;Unknown;;India
+Times Internet;100;18/8/2023;5%;Media;Subsidiary;;India
+Detectify;30;18/8/2023;;Security;Unknown;$42;Sweden
+Embrace;;18/8/2023;;Product;Unknown;$77;United States
+Zylo;;18/8/2023;10%;Other;Series C;$72;United States
+Illumina;151;17/8/2023;;Healthcare;Post-IPO;$28;United States
+AppFolio;149;17/8/2023;9%;Real Estate;Post-IPO;$30;United States
+Intel;140;17/8/2023;;Hardware;Post-IPO;$12;United States
+StreamElements;60;17/8/2023;35%;Media;Series B;$111;Israel
+CircleCI;;17/8/2023;;Product;Series F;$315;United States
+FlexCar;20;16/8/2023;;Transportation;Unknown;$297;United States
+Noice;;15/8/2023;;Consumer;Seed;$5;Finland
+SecureWorks;300;14/8/2023;15%;Security;Post-IPO;$83;United States
+Easee;200;14/8/2023;57%;Energy;Unknown;;Norway
+CoinDesk;;14/8/2023;;Crypto;Acquired;;United States
+iQiyi Smart;;14/8/2023;;Other;Series C;;China
+LingoAce;;11/8/2023;;Education;Series C;$180;Singapore
+Shutterfly;246;10/8/2023;;Manufacturing;Post-IPO;$50;United States
+SHINE Technologies;59;10/8/2023;;Other;Series C;$672;United States
+Hike;55;10/8/2023;;Consumer;Unknown;$261;India
+NCC Group;;10/8/2023;;Security;Post-IPO;;United Kingdom
+Blend;150;9/8/2023;19%;Finance;Post-IPO;$665;United States
+Niantic;100;9/8/2023;;Other;Series D;$770;United States
+Babylon Health;94;9/8/2023;;Healthcare;Post-IPO;$1,200;United Kingdom
+Dealtale;70;9/8/2023;100%;Sales;Acquired;$2;United States
+Bukalapak;;9/8/2023;;Retail;Post-IPO;$925;Indonesia
+Podium;;9/8/2023;;Support;Series D;$419;United States
+Quizy;;9/8/2023;100%;Consumer;Seed;;India
+StyleSeat;;9/8/2023;17%;Consumer;Series C;$40;United States
+Thoughtworks;579;8/8/2023;5%;Other;Post-IPO;$748;United States
+Rapid7;470;8/8/2023;18%;Security;Post-IPO;$89;United States
+MPL;350;8/8/2023;;Consumer;Unknown;$375;India
+Doximity;100;8/8/2023;10%;Healthcare;Post-IPO;$82;United States
+23andMe;71;8/8/2023;11%;Healthcare;Post-IPO;$1,100;United States
+Caliva;54;8/8/2023;;Retail;Series B;$75;United States
+Sendy;;8/8/2023;100%;Logistics;Series B;$26;Kenya
+Dell;;7/8/2023;;Hardware;Post-IPO;;United States
+Verse;;7/8/2023;100%;Finance;Acquired;$38;Spain
+Qomplx;60;4/8/2023;;AI;Series A;$107;United States
+CodeClan;57;4/8/2023;100%;Education;Seed;;United Kingdom
+Top Hat;42;4/8/2023;7%;Education;Series E;$234;Canada
+Astra;;4/8/2023;25%;Aerospace;Post-IPO;$300;United States
+Big Cabal Media;;4/8/2023;19%;Media;Seed;$3;Nigeria
+Discord;37;3/8/2023;4%;Consumer;Series H;$995;United States
+Bardee;30;3/8/2023;;Food;Seed;$5;Australia
+Aware;;3/8/2023;;Security;Series C;$88;United States
+Ayoconnect;;3/8/2023;10%;Finance;Series B;$43;Indonesia
+Finastra;;3/8/2023;;Finance;Unknown;;Israel
+Spinny;300;2/8/2023;5%;Transportation;Series E;$513;India
+Tekion;300;2/8/2023;10%;Other;Series D;$435;India
+BetterUp;100;2/8/2023;16%;HR;Series E;$567;United States
+Augury;70;2/8/2023;18%;Manufacturing;Series E;$274;United States
+Gem;70;2/8/2023;;Recruiting;Series C;$148;United States
+Gupy;58;2/8/2023;8%;HR;Series B;$105;Brazil
+Salesforce;50;2/8/2023;;Sales;Post-IPO;$65;Ireland
+FamPay;18;2/8/2023;;Finance;Series A;$42;India
+Actyv.ai;;2/8/2023;60%;Finance;Seed;$12;India
+ConnectedH;;2/8/2023;100%;Healthcare;Seed;$2;India
+DICE;;2/8/2023;;Consumer;Series C;$135;United Kingdom
+HackerOne;;2/8/2023;12%;Security;Series E;$159;United States
+Silofit;;2/8/2023;100%;Fitness;Series A;$19;Canada
+TripAdvisor;;2/8/2023;;Travel;Post-IPO;$3;United States
+Vesttoo;150;1/8/2023;75%;Finance;Series C;$110;Israel
+Planet;117;1/8/2023;10%;Aerospace;Post-IPO;$574;United States
+Paper;106;1/8/2023;4%;Education;Series D;$389;Canada
+Archipelago;40;1/8/2023;30%;Real Estate;Series B;$57;United States
+Increff;;1/8/2023;20%;Retail;Series B;$17;India
+Indigo;;1/8/2023;;Other;Series F;$1,200;United States
+inDrive;;1/8/2023;10%;Transportation;Unknown;$387;United States
+Outreach;;1/8/2023;5%;Sales;Series G;$489;United States
+Qoala;80;31/7/2023;;Finance;Series B;$89;Indonesia
+Fable;13;31/7/2023;9%;Other;Series A;$12;Canada
+Nexar;12;31/7/2023;;Transportation;Series D;$149;United States
+Cambricon;;31/7/2023;;Hardware;Series B;$200;China
+Kape Technologies;200;30/7/2023;30%;Security;Post-IPO;$188;United Kingdom
+Eroad;200;28/7/2023;31%;Transportation;Unknown;$46;New Zealand
+Kape;180;28/7/2023;;Security;Post-IPO;$188;United Kingdom
+Homology;;28/7/2023;;Healthcare;Post-IPO;$187;United States
+Milkbasket;400;27/7/2023;67%;Food;Acquired;$39;India
+Wish;255;27/7/2023;34%;Retail;Post-IPO;$1,600;United States
+Point;61;27/7/2023;28%;Real Estate;Series C;$149;United States
+Akseleran;60;27/7/2023;;Finance;Series A;$9;Indonesia
+Verbit;60;27/7/2023;6%;Data;Series E;$569;United States
+Datree;;27/7/2023;100%;Other;Seed;$11;United States
+Degreed;;27/7/2023;;Education;Unknown;$463;United States
+Copia;350;26/7/2023;25%;Retail;Series C;$103;Kenya
+Figure;90;26/7/2023;20%;Crypto;Unknown;$1,500;United States
+Calendly;60;26/7/2023;10%;Other;Series B;$351;United States
+Myntra;50;26/7/2023;;Retail;Acquired;$516;India
+Kleos Space;;26/7/2023;100%;Aerospace;Post-IPO;$17;Luxembourg
+Deep Instict;46;25/7/2023;15%;Security;Unknown;$322;United States
+Pluralsight;;25/7/2023;;Education;Acquired;$192;United States
+AppHarvest;;24/7/2023;100%;Food;Post-IPO;$692;United States
+Arive;;24/7/2023;;Retail;Unknown;$37;Germany
+Onfido;;24/7/2023;;Finance;Series D;$182;United Kingdom
+PathAI;87;21/7/2023;;Healthcare;Series C;$255;United States
+Bundle Africa;;21/7/2023;100%;Crypto;Seed;$1;Nigeria
+Viaplay;450;20/7/2023;25%;Media;Unknown;;Sweden
+Stoa;80;20/7/2023;80%;Real Estate;Unknown;;United States
+Dunzo;;20/7/2023;;Food;Unknown;$382;India
+MiQ;;20/7/2023;;Marketing;Private Equity;;United Kingdom
+Phunware;;20/7/2023;;Other;Post-IPO;$87;United States
+Saarthi.ai;;20/7/2023;;Support;Unknown;;India
+AgentSync;67;19/7/2023;24%;Finance;Series B;$111;United States
+Inspirato;50;19/7/2023;6%;Travel;Post-IPO;$179;United States
+Tilia;28;19/7/2023;32%;Finance;Unknown;$32;United States
+Blue Apron;;19/7/2023;20%;Food;Post-IPO;$422;United States
+Microsoft;1000;18/7/2023;;Other;Post-IPO;$1;United States
+Cameo;80;18/7/2023;;Consumer;Unknown;$165;United States
+Square Roots;;18/7/2023;;Food;Unknown;$91;United States
+Sarcos;75;17/7/2023;25%;Aerospace;Post-IPO;$316;United States
+Code42;;17/7/2023;;Security;Unknown;$137;United States
+Ezoic;;17/7/2023;28%;Infrastructure;Series A;$39;United States
+IBM;;17/7/2023;;Hardware;Post-IPO;;United States
+Lamudi Indonesia;;17/7/2023;;Real Estate;Acquired;$56;Indonesia
+Binance;1000;14/7/2023;;Crypto;Unknown;;Cayman Islands
+PayScale;14;14/7/2023;2%;HR;Acquired;$33;United States
+Navi Technologies;200;13/7/2023;;Finance;Unknown;$659;India
+Skill Lync;200;13/7/2023;;Education;Series A;$17;India
+Amazon;80;13/7/2023;;Retail;Post-IPO;$108;United States
+AudioCodes;80;13/7/2023;6%;Other;Post-IPO;$91;Israel
+Tempo Automation;62;13/7/2023;;Other;Post-IPO;$154;United States
+Uber Freight;40;13/7/2023;;Logistics;Subsidiary;$2,700;United States
+Deepwatch;30;13/7/2023;7%;Security;Series C;$256;United States
+Centr;22;13/7/2023;;Fitness;Unknown;;Australia
+Factorial;20;13/7/2023;;HR;Series C;$220;Spain
+Peloton;11;13/7/2023;;Fitness;Post-IPO;$1,900;United States
+Bark;;13/7/2023;8%;Retail;Post-IPO;$282;United States
+Khoros;;13/7/2023;5%;Sales;Private Equity;$138;United States
+Netlify;;13/7/2023;;Other;Series D;$212;United States
+SAS;;13/7/2023;;Data;Unknown;;United States
+Stitch Fix;400;12/7/2023;;Retail;Post-IPO;$79;United States
+Dapper Labs;51;12/7/2023;;Crypto;Unknown;;Canada
+DeepVerge;50;12/7/2023;100%;Healthcare;Post-IPO;$20;Ireland
+Freightos;50;12/7/2023;13%;Logistics;Post-IPO;$118;United States
+Circle;;12/7/2023;;Crypto;Private Equity;$1,100;United States
+CyberGRX;;12/7/2023;;Security;Acquired;$99;United States
+Duck Creek Technologies;;12/7/2023;9%;Finance;Acquired;$357;United States
+Expedia;;12/7/2023;;Travel;Post-IPO;$3,300;United States
+WayCool;300;11/7/2023;12%;Food;Unknown;$363;India
+Matterport;170;11/7/2023;30%;Data;Post-IPO;$409;United States
+Everquote;100;11/7/2023;;Finance;Post-IPO;$53;United States
+Sisense;100;11/7/2023;15%;Data;Series F;$274;United States
+Built Technologies;;11/7/2023;;Construction;Unknown;$313;United States
+Butterfly Network copy;;11/7/2023;25%;Healthcare;Post-IPO;$530;United States
+Dukaan;;11/7/2023;;Retail;Series A;$17;India
+Jasper;;11/7/2023;;AI;Series A;$131;Canada
+Shift;;11/7/2023;34%;Transportation;Post-IPO;$504;United States
+FrontRow;;10/7/2023;100%;Education;Series A;$17;India
+IntelyCare;;10/7/2023;;Healthcare;Series C;$171;United States
+Latch;;10/7/2023;59%;Security;Post-IPO;$342;United States
+Motive;;10/7/2023;5%;Transportation;Series F;$567;United States
+Medsaf;30;7/7/2023;100%;Healthcare;Unknown;;Nigeria
+Evernote;;7/7/2023;;Consumer;Acquired;$290;United States
+PaulCamper;;7/7/2023;;Travel;Acquired;$12;Germany
+Trellix;;7/7/2023;;Security;Unknown;$35;United States
+Amdocs;2000;6/7/2023;6%;Support;Post-IPO;;United States
+FNZ;1000;6/7/2023;15%;Finance;Private Equity;$1,400;United Kingdom
+Perfect Day;134;6/7/2023;15%;Food;Series D;$711;United States
+Solidigm;98;6/7/2023;;Hardware;Unknown;;United States
+TytoCare;20;6/7/2023;10%;Healthcare;Series D;$156;United States
+Circles.Life;;6/7/2023;;Marketing;Unknown;$50;Singapore
+ConnectRN;;6/7/2023;;Healthcare;Unknown;$160;United States
+Crunchbase;;6/7/2023;;Sales;Series D;$106;United States
+DayTwo;;6/7/2023;;Healthcare;Series B;$90;United States
+Athennian;30;5/7/2023;;Legal;Series B;$47;Canada
+Vista Group;;5/7/2023;6%;Data;Post-IPO;;New Zealand
+Highsnobiety;24;3/7/2023;10%;Media;Acquired;$8;Germany
+Zip;300;2/7/2023;20%;Finance;Post-IPO;$896;Australia
+Buzzer;;30/6/2023;100%;Consumer;Series A;$24;United States
+Lunya;;30/6/2023;100%;Retail;Unknown;;United States
+MediaMath;;30/6/2023;100%;Marketing;Private Equity;$607;United States
+Niantic;230;29/6/2023;;Other;Series D;$770;United States
+Headspace;181;29/6/2023;15%;Healthcare;Unknown;$216;United States
+Artsy;35;29/6/2023;15%;Retail;Series D;$100;United States
+Candy Digital;30;29/6/2023;;Crypto;Series A;$138;United States
+Xiaomi India;30;29/6/2023;;Other;Subsidiary;;India
+Torii;28;29/6/2023;30%;Other;Series B;$65;Israel
+Insider Intelligence;20;29/6/2023;;Media;Subsidiary;;United States
+Merama;;29/6/2023;10%;Retail;Series B;$445;Mexico
+Qyuki;;29/6/2023;30%;Other;Seed;$19;India
+Stripe;;29/6/2023;;Finance;Series I;$8,700;United States
+Vowel;;29/6/2023;100%;Other;Series A;$18;United States
+ClickUp;90;28/6/2023;10%;Other;Series C;$537;United States
+Ludia;55;28/6/2023;;Consumer;Acquired;$1;United States
+Karat;47;28/6/2023;;HR;Unknown;$169;United States
+Plex;37;28/6/2023;20%;Media;Unknown;$81;United States
+Starburst;;28/6/2023;15%;Data;Series D;$414;United States
+Zapier;;28/6/2023;10%;Other;Seed;$1;United States
+Selina;350;27/6/2023;;Travel;Post-IPO;$612;United Kingdom
+New Relic;255;27/6/2023;10%;Infrastructure;Post-IPO;$214;United States
+Tibber;50;27/6/2023;;Energy;Series C;$181;Norway
+ClearPay;;27/6/2023;;Finance;Acquired;$85;United Kingdom
+Eyowo;;27/6/2023;100%;Finance;Unknown;;Nigeria
+Loopio;;27/6/2023;9%;Sales;Private Equity;$263;Canada
+Lordstown Motors;;27/6/2023;100%;Transportation;Post-IPO;$1,100;United States
+Waze;;27/6/2023;;Transportation;Acquired;$67;United States
+Payoneer;200;26/6/2023;10%;Finance;Post-IPO;;United States
+Robinhood;150;26/6/2023;7%;Finance;Post-IPO;$5,600;United States
+Convoy;30;26/6/2023;5%;Logistics;Series E;$1,100;United States
+Joonko;;25/6/2023;100%;Recruiting;Series B;$38;United States
+IRL;;23/6/2023;100%;Consumer;Series C;$197;United States
+Retool;;22/6/2023;9%;Other;Series C;$141;United States
+Anaplan;300;21/6/2023;;Other;Acquired;$300;United States
+Uber;200;21/6/2023;;Transportation;Post-IPO;$25,200;United States
+Tackle.io;75;21/6/2023;;Infrastructure;Series C;$148;United States
+Ritual;38;21/6/2023;40%;Food;Series C;$134;Canada
+Friday Health Plans;;21/6/2023;;Healthcare;Private Equity;$306;United States
+Illumina;;21/6/2023;;Healthcare;Post-IPO;$28;United States
+Mutiny;;21/6/2023;30%;Marketing;Series B;$69;United States
+Grab;1000;20/6/2023;11%;Transportation;Post-IPO;$16,500;Singapore
+OLX Group;800;20/6/2023;;Marketing;Acquired;;Netherlands
+Karakuki;;20/6/2023;100%;Food;Unknown;$13;United Kingdom
+Chingari;48;19/6/2023;20%;Media;Unknown;$88;India
+Panther;;19/6/2023;100%;HR;Seed;$2;United States
+Fuzzy;;18/6/2023;100%;Healthcare;Series C;$80;United States
+Mojocare;170;17/6/2023;80%;Healthcare;Series A;$24;India
+Nikola;270;16/6/2023;;Transportation;Post-IPO;$3,300;United States
+Qualcomm;84;16/6/2023;;Hardware;Post-IPO;;United States
+Pilot;45;16/6/2023;13%;Finance;Unknown;$116;United States
+Karshare;;16/6/2023;100%;Transportation;Seed;$4;United Kingdom
+Zulily;;16/6/2023;;Retail;Acquired;$194;United States
+CareRev;100;15/6/2023;33%;Healthcare;Series A;$51;United States
+TADA;45;15/6/2023;60%;Transportation;Subsidiary;;South Korea
+Binance.US;;15/6/2023;;Crypto;Subsidiary;;United States
+Cerner;;15/6/2023;;Healthcare;Acquired;;United States
+FrontRow;;15/6/2023;90%;Education;Series A;$17;India
+Bitwise;900;14/6/2023;100%;Crypto;Series B;$84;United States
+Sonos;130;14/6/2023;7%;Consumer;Post-IPO;$455;United States
+TrueCar;102;14/6/2023;24%;Transportation;Post-IPO;$340;United States
+Olo;81;14/6/2023;11%;Food;Post-IPO;$184;United States
+Mamaearth;80;14/6/2023;;Retail;Unknown;$111;India
+Synapse;;14/6/2023;18%;Finance;Series B;$50;United States
+Western Digital;211;13/6/2023;;Hardware;Post-IPO;$900;United States
+JupiterOne;8;13/6/2023;;Security;Series C;$119;United States
+Zalando;;13/6/2023;;Retail;Post-IPO;$468;Germany
+Grubhub;400;12/6/2023;15%;Food;Acquired;$284;United States
+GoCardless;150;12/6/2023;17%;Finance;Series G;$529;United Kingdom
+Pendo;100;12/6/2023;12%;Product;Series F;$469;United States
+Chegg;80;12/6/2023;4%;Education;Post-IPO;$227;United States
+dot.LA;;12/6/2023;100%;Media;Seed;$4;United States
+TaxBit;80;11/6/2023;40%;Crypto;Unknown;$253;United States
+Tiki;;11/6/2023;100%;Consumer;Unknown;;Singapore
+Trybe;128;9/6/2023;35%;Education;Series B;$40;Brazil
+23andMe;75;9/6/2023;9%;Healthcare;Post-IPO;$1,100;United States
+Expel;60;9/6/2023;10%;Security;Series E;$288;United States
+Branch;186;8/6/2023;;Finance;Series C;$229;United States
+Cityblock Health;155;8/6/2023;12%;Healthcare;Series D;$891;United States
+Highspot;140;8/6/2023;15%;Sales;Series F;$644;United States
+Cohesity;;8/6/2023;;Data;Series E;$805;United States
+Freshworks;;8/6/2023;;Support;Post-IPO;$484;United States
+Opora;;8/6/2023;100%;Security;Seed;$7;United States
+Byju's;1000;7/6/2023;;Education;Private Equity;$5,500;India
+Nubank;296;7/6/2023;;Finance;Post-IPO;$4,100;Brazil
+Sumo Logic;79;7/6/2023;;Data;Acquired;$340;United States
+Flatiron Health;39;7/6/2023;;Healthcare;Acquired;$324;United States
+Better.com;;7/6/2023;;Real Estate;Unknown;$905;United States
+HashiCorp;;7/6/2023;8%;Infrastructure;Post-IPO;$349;United States
+Ursa Major;;7/6/2023;;Aerospace;Series D;$233;United States
+Coherent;196;6/6/2023;;Manufacturing;Post-IPO;;United States
+Edgio;134;6/6/2023;12%;Infrastructure;Post-IPO;$462;United States
+Reddit;90;6/6/2023;5%;Consumer;Series F;$1,300;United States
+Linktree;60;6/6/2023;27%;Consumer;Unknown;$165;Australia
+Dragos;50;6/6/2023;9%;Security;Series D;$364;United States
+Unity;50;6/6/2023;;Other;Post-IPO;$1,300;United States
+Mara;6;6/6/2023;;Crypto;Seed;$23;Kenya
+Bunnii;;6/6/2023;100%;Healthcare;Unknown;;United States
+Spotify;200;5/6/2023;2%;Media;Post-IPO;$2,100;Sweden
+Azibo;;5/6/2023;;Finance;Series A;$19;United States
+Flyhomes;;5/6/2023;;Real Estate;Series C;$310;United States
+Meati Foods;;3/6/2023;5%;Food;Series C;$274;United States
+ZoomInfo;120;2/6/2023;3%;Sales;Post-IPO;$7;United States
+Staffbase;90;2/6/2023;;Other;Series E;$307;Germany
+Zume;;2/6/2023;100%;Food;Unknown;$423;United States
+Haven Technologies;280;1/6/2023;70%;Finance;Subsidiary;;United States
+Mural;170;1/6/2023;;Product;Series C;$192;United States
+Glamyo Health;160;1/6/2023;;Healthcare;Series B;$9;India
+Outbrain;90;1/6/2023;10%;Marketing;Post-IPO;$394;United States
+CloudTrucks;;1/6/2023;;Logistics;Series B;$141;United States
+CoachHub;;1/6/2023;10%;HR;Series C;$332;Germany
+Fractal Software;;1/6/2023;;Other;Unknown;;United States
+SentinelOne;;1/6/2023;5%;Security;Post-IPO;$696;United States
+SmartAsset;;1/6/2023;19%;Finance;Series D;$161;United States
+Zendesk;320;31/5/2023;8%;Support;Acquired;$85;United States
+ZipRecruiter;270;31/5/2023;20%;Recruiting;Post-IPO;$769;United States
+Vendr;100;31/5/2023;25%;Other;Series B;$216;United States
+McMakler;60;31/5/2023;;Real Estate;Unknown;$214;Germany
+Mux;40;31/5/2023;30%;Infrastructure;Series D;$173;United States
+Away;22;31/5/2023;8%;Retail;Series D;$181;United States
+Taxfix;120;30/5/2023;20%;Finance;Series D;$330;Germany
+Mensa Brands;30;30/5/2023;;Retail;Unknown;$254;India
+Coupa;;30/5/2023;;Finance;Acquired;$219;United States
+Nansen;;30/5/2023;;Crypto;Series B;$88;Singapore
+PacketFabric;;30/5/2023;;Infrastructure;Unknown;$109;United States
+Evolve;164;29/5/2023;14%;Travel;Series F;$224;United States
+Project44;130;26/5/2023;10%;Logistics;Unknown;$817;United States
+DHI Group;53;26/5/2023;10%;Recruiting;Post-IPO;;United States
+BenevolentAI;180;25/5/2023;;Healthcare;Private Equity;$292;United Kingdom
+Airmeet;75;25/5/2023;30%;Marketing;Series B;$50;India
+Circus Kitchens;35;25/5/2023;;Food;Seed;$12;Germany
+Kabam;;25/5/2023;12%;Consumer;Acquired;$244;United States
+Guild;172;24/5/2023;12%;Education;Series F;$643;United States
+WillowTree;120;24/5/2023;11%;Marketing;Acquired;;United States
+Flink;100;24/5/2023;16%;Food;Series B;$1,000;Germany
+Western Digital;60;24/5/2023;7%;Hardware;Post-IPO;$900;Israel
+Alibaba Cloud;;24/5/2023;7%;Data;Subsidiary;;China
+Brainly;;24/5/2023;30%;Education;Series D;$148;Poland
+Reliance JioMart;1000;23/5/2023;;Food;Subsidiary;;India
+Qualcomm;30;23/5/2023;;Hardware;Post-IPO;;Israel
+SoundCloud;;23/5/2023;8%;Consumer;Unknown;$542;Germany
+Tractable;;23/5/2023;;Finance;Series D;$119;United States
+AppFolio;62;22/5/2023;;Real Estate;Post-IPO;$30;United States
+Daylight;;22/5/2023;100%;Finance;Series A;$20;United States
+FemTech Health;;22/5/2023;100%;Healthcare;Unknown;;United States
+Paperless Parts;;22/5/2023;;Manufacturing;Series B;$30;United States
+Nuance Communications;;20/5/2023;;Healthcare;Acquired;;United States
+Moss;30;19/5/2023;;Finance;Series B;$150;Germany
+Pie Insurance;63;18/5/2023;14%;Finance;Series D;$621;United States
+Clearbit;;18/5/2023;;Sales;Series A;$17;United States
+dbt Labs;;18/5/2023;15%;Data;Series D;$414;United States
+L1ght;;18/5/2023;100%;Other;Seed;$15;Israel
+Nextbite;;18/5/2023;;Food;Series C;$150;United States
+TuSimple;;18/5/2023;30%;Transportation;Post-IPO;$648;United States
+Stash;40;17/5/2023;10%;Finance;Unknown;$480;United States
+Formstack;;17/5/2023;40%;Other;Private Equity;$425;United States
+Cerner;3000;16/5/2023;11%;Healthcare;Acquired;;United States
+Zepz;420;16/5/2023;26%;Finance;Series E;$700;United Kingdom
+Lemonade;45;16/5/2023;3%;Finance;Post-IPO;$481;United States
+DroneUp;;16/5/2023;;Logistics;Unknown;$7;United States
+Quanto;;16/5/2023;85%;Finance;Series A;$20;Brazil
+Cana;;13/5/2023;100%;Food;Unknown;$30;United States
+Nuro;340;12/5/2023;30%;Transportation;Series D;$2,100;United States
+Telenav;172;12/5/2023;;Transportation;Post-IPO;$30;Romania
+Happay;160;12/5/2023;35%;Finance;Acquired;$21;India
+Slickdeals;79;12/5/2023;33%;Retail;Unknown;;United States
+Toothsi;20;12/5/2023;;Healthcare;Series C;$87;India
+Everlaw;;12/5/2023;10%;Legal;Series D;$298;United States
+Tessera;;12/5/2023;100%;Crypto;Series A;$43;United States
+Cornershop;250;11/5/2023;11%;Food;Acquired;$31;Chile
+Varo;97;11/5/2023;;Finance;Series E;$992;United States
+CS Disco;;11/5/2023;8%;Legal;Post-IPO;$233;United States
+Microsoft;158;10/5/2023;;Other;Post-IPO;$1;United States
+Redbubble;70;10/5/2023;23%;Retail;Post-IPO;$55;Australia
+Similarweb;60;10/5/2023;6%;Other;Post-IPO;$235;United States
+Stack Overflow;58;10/5/2023;10%;Recruiting;Acquired;$153;United States
+Akamai;290;9/5/2023;3%;Security;Post-IPO;$35;United States
+Sonatype;100;9/5/2023;14%;Security;Acquired;$154;United States
+AudioCodes;80;9/5/2023;6%;Other;Post-IPO;$91;Israel
+Buzzer;;9/5/2023;;Media;Unknown;$32;United States
+Marqeta;;9/5/2023;15%;Finance;Post-IPO;$530;United States
+LinkedIn;716;8/5/2023;4%;Recruiting;Acquired;$154;United States
+Cuemath;100;8/5/2023;;Education;Unknown;$121;India
+Momentis Surgical;70;8/5/2023;60%;Healthcare;Series D;;Israel
+Glean AI;5;8/5/2023;;Finance;Seed;$11;United States
+Everledger;;8/5/2023;100%;Crypto;Unknown;$27;Australia
+Twist Bioscience;270;5/5/2023;25%;Healthcare;Post-IPO;$503;United States
+Meesho;251;5/5/2023;15%;Retail;Series F;$1,100;India
+Teachmint;70;5/5/2023;;Education;Series B;$118;India
+Eventus;;5/5/2023;33%;Finance;Series B;$45;United States
+Shopify;2300;4/5/2023;20%;Retail;Post-IPO;$122;Canada
+Sabre;1100;4/5/2023;15%;Travel;Post-IPO;$1,700;United States
+Scribe Media;90;4/5/2023;100%;Marketing;Unknown;;United States
+Autograph;30;4/5/2023;33%;Crypto;Series B;$205;United States
+Earnix;30;4/5/2023;10%;Finance;Unknown;$100;Israel
+Karma;20;4/5/2023;28%;Retail;Series A;$34;Israel
+Glassbox;;4/5/2023;14%;Data;Series C;$70;United Kingdom
+Unity;600;3/5/2023;8%;Other;Post-IPO;$1,300;United States
+Upwork;137;3/5/2023;15%;Other;Post-IPO;$168;United States
+Cars24;100;3/5/2023;;Transportation;Series G;$1,300;Indonesia
+Brightcove;70;3/5/2023;10%;Marketing;Post-IPO;$145;United States
+Healthy.io;70;3/5/2023;33%;Healthcare;Series D;$185;United States
+Zymergen;27;3/5/2023;;Other;Acquired;$974;United States
+TheSkimm;22;3/5/2023;13%;Media;Series C;$28;United States
+Brightline;;3/5/2023;20%;Healthcare;Series C;$212;United States
+Bishop Fox;50;2/5/2023;13%;Security;Series B;$146;United States
+Zoomo;27;2/5/2023;8%;Transportation;Series B;$105;Australia
+Vallai;;2/5/2023;100%;Data;Seed;;France
+SAS;250;1/5/2023;;Data;Unknown;;United States
+Lev;34;1/5/2023;;Real Estate;Series B;$114;United States
+PharmEasy;;1/5/2023;;Healthcare;Unknown;$1,600;India
+Vah Vah!;150;30/4/2023;;Education;Seed;$2;India
+Cogito;177;29/4/2023;;Data;Unknown;;India
+Cue Health;326;28/4/2023;30%;Healthcare;Post-IPO;$899;United States
+N26;71;28/4/2023;4%;Finance;Series E;$1,700;United States
+Embark Vet;28;28/4/2023;;Healthcare;Series B;$94;United States
+Poparazzi;;28/4/2023;100%;Consumer;Series A;$15;United States
+Providoor;;28/4/2023;100%;Food;Unknown;;Australia
+Dropbox;500;27/4/2023;16%;Other;Post-IPO;$1,700;United States
+Alteryx;320;27/4/2023;11%;Data;Post-IPO;$613;United States
+Vroom;120;27/4/2023;11%;Transportation;Post-IPO;$1,300;United States
+Greenhouse;100;27/4/2023;12%;Recruiting;Private Equity;$110;United States
+Rebellion Defense;90;27/4/2023;;Data;Series B;$150;United States
+Poppulo;85;27/4/2023;;HR;Acquired;$30;United States
+Megaport;50;27/4/2023;16%;Infrastructure;Post-IPO;$98;Australia
+Airtasker;45;27/4/2023;20%;Retail;Series C;$26;Australia
+Chief;43;27/4/2023;14%;Other;Series B;$140;United States
+Tickertape;29;27/4/2023;29%;Finance;Seed;$5;India
+Clubhouse;;27/4/2023;50%;Consumer;Series C;$110;United States
+Oddle;;27/4/2023;25%;Food;Series B;$9;Singapore
+Extramarks;300;26/4/2023;;Education;Unknown;;India
+Teampay;30;26/4/2023;33%;Finance;Series B;$79;United States
+RenoRun;;26/4/2023;100%;Construction;Series B;$163;Canada
+Skill Lync;400;25/4/2023;;Education;Series A;$17;India
+Rapid;115;25/4/2023;50%;Finance;Series D;$272;United States
+Rapid;70;25/4/2023;30%;Finance;Series D;$272;United States
+Flink;8000;24/4/2023;40%;Food;Series B;$1,000;Germany
+Red Hat;760;24/4/2023;4%;Other;Acquired;;United States
+BigPanda;40;24/4/2023;13%;Infrastructure;Series E;$337;United States
+Lyft;1072;21/4/2023;26%;Transportation;Post-IPO;$4,900;United States
+Benchling;74;21/4/2023;9%;Other;Series F;$411;United States
+Pluralsight;;21/4/2023;;Education;Acquired;$192;United States
+BuzzFeed;180;20/4/2023;15%;Media;Post-IPO;$696;United States
+Koo;78;20/4/2023;30%;Consumer;Series B;$50;India
+Open;47;20/4/2023;;Finance;Series D;$190;India
+Gloat;35;20/4/2023;12%;HR;Series D;$192;United States
+Insider;;20/4/2023;10%;Media;Unknown;;United States
+Iress;;20/4/2023;10%;Finance;Unknown;;Australia
+Lenovo;;20/4/2023;;Hardware;Post-IPO;$850;United States
+F5;623;19/4/2023;9%;Security;Post-IPO;;United States
+WalkMe;112;19/4/2023;10%;Other;Post-IPO;$307;United States
+Opendoor;560;18/4/2023;22%;Real Estate;Post-IPO;$1,900;United States
+Noon;340;18/4/2023;10%;Retail;Unknown;;Saudi Arabia
+Culture Amp;90;18/4/2023;9%;HR;Series F;$257;Australia
+TRM Labs;16;18/4/2023;9%;Crypto;Series B;$149;United States
+CoLab;;18/4/2023;100%;Food;Seed;$3;Australia
+Ten Square Games;120;17/4/2023;25%;Consumer;Seed;;Poland
+Clearcover;81;17/4/2023;15%;Finance;Series D;$304;United States
+Paper;81;17/4/2023;3%;Education;Series D;$389;Canada
+Ynsect;17;17/4/2023;25%;Food;Series D;$579;France
+FamPay;;17/4/2023;;Finance;Series A;$42;India
+Kumu;;17/4/2023;;Media;Series C;$94;Philippines
+Utopia Music;;17/4/2023;15%;Other;Series B;;Switzerland
+Quadream;;16/4/2023;100%;Security;Unknown;;Israel
+Drip Capital;75;14/4/2023;20%;Finance;Series C;$85;United States
+Community Gaming;17;14/4/2023;17%;Crypto;Series A;$18;United States
+Calibrate;;14/4/2023;18%;Healthcare;Series B;$127;United States
+Sayurbox;;14/4/2023;;Food;Series C;$139;Indonesia
+Snyk;128;13/4/2023;;Security;Series F;$849;United States
+Astronomer;100;13/4/2023;40%;Data;Series C;$282;United States
+Bluepad;;13/4/2023;100%;Media;Seed;;India
+Heygo;;13/4/2023;100%;Travel;Series A;$20;United Kingdom
+Lazerpay;;13/4/2023;100%;Crypto;Unknown;;Nigeria
+Mediafly;;13/4/2023;;Sales;Private Equity;$59;United States
+Viasat;300;12/4/2023;4%;Other;Post-IPO;$366;United States
+Science 37;140;12/4/2023;;Healthcare;Post-IPO;$347;United States
+Medtronic;59;12/4/2023;;Healthcare;Post-IPO;$5,900;United States
+Milkrun;400;11/4/2023;100%;Food;Series A;$86;Australia
+Redfin;201;11/4/2023;4%;Real Estate;Post-IPO;$320;United States
+Permutive;80;11/4/2023;40%;Marketing;Series C;$105;United Kingdom
+Examedi;45;11/4/2023;25%;Healthcare;Unknown;$19;Chile
+Acxiom;;11/4/2023;;Marketing;Post-IPO;;United States
+Euler Motors;;11/4/2023;10%;Transportation;Series C;$92;India
+Reforge;;11/4/2023;;Education;Series B;$81;United States
+Flock Freight;45;10/4/2023;8%;Logistics;Series D;$399;United States
+Nori;10;10/4/2023;37%;Energy;Unknown;$13;United States
+Simpl;150;9/4/2023;25%;Finance;Series B;$71;India
+Practo;41;8/4/2023;;Healthcare;Series D;$222;India
+Pear Therapeutics;170;7/4/2023;92%;Healthcare;Post-IPO;$409;United States
+Workit Health;100;7/4/2023;;Healthcare;Series C;$138;United States
+ZestMoney;100;7/4/2023;20%;Finance;Series C;$120;India
+Absolute Software;40;6/4/2023;5%;Security;Post-IPO;;Canada
+Avocargo;16;6/4/2023;100%;Transportation;Seed;;Germany
+Dunzo;300;5/4/2023;30%;Food;Unknown;$382;India
+Amplitude;99;5/4/2023;13%;Data;Post-IPO;$311;United States
+Talent.com;86;5/4/2023;18%;Recruiting;Series B;$150;Canada
+1K Kirana;600;4/4/2023;40%;Retail;Series B;;India
+Foundation Medicine;135;4/4/2023;;Healthcare;Acquired;$96;United States
+Finder;40;4/4/2023;;Retail;Unknown;$30;Australia
+Boost;15;4/4/2023;20%;Finance;Series B;$37;United States
+Cin7;;4/4/2023;;Retail;Private Equity;;New Zealand
+Hyland Software;1000;3/4/2023;20%;Other;Acquired;;United States
+View;170;3/4/2023;23%;Other;Post-IPO;$2,300;United States
+Guideline;48;3/4/2023;11%;Finance;Series E;$339;United States
+Textio;15;3/4/2023;12%;Recruiting;Unknown;$42;United States
+Apple;;3/4/2023;;Retail;Post-IPO;$6,200;United States
+Checkout.com;;3/4/2023;;Finance;Series D;$1,800;United Kingdom
+Domestika;89;31/3/2023;45%;Education;Series D;$130;Spain
+Airbyte;;31/3/2023;;Data;Series B;$181;United States
+Hulu;200;30/3/2023;;Media;Acquired;$683;China
+Roku;200;30/3/2023;6%;Media;Post-IPO;$208;United States
+LendingTree;150;30/3/2023;13%;Finance;Post-IPO;;United States
+FanClash;100;30/3/2023;75%;Consumer;Series B;$50;India
+Loop;19;30/3/2023;25%;Finance;Series A;$24;United States
+Crossbeam;17;30/3/2023;15%;Sales;Series C;$116;United States
+Spotify;15;30/3/2023;;Media;Post-IPO;$2,100;Sweden
+AnswerLab;;30/3/2023;17%;Marketing;Unknown;;United States
+Endowus;;30/3/2023;;Finance;Unknown;$44;Singapore
+GoodWorker;;30/3/2023;90%;Recruiting;Acquired;;Singapore
+Kyndryl;;30/3/2023;;Infrastructure;Post-IPO;;United States
+Nowports;;30/3/2023;15%;Logistics;Series C;;Mexico
+Unacademy;;30/3/2023;12%;Education;Series H;$838;India
+CoverMyMeds;800;29/3/2023;;Healthcare;Acquired;$5;United States
+Electronic Arts;780;29/3/2023;6%;Consumer;Post-IPO;$2;United States
+Seagate;480;29/3/2023;;Hardware;Post-IPO;;United States
+Drizly;100;29/3/2023;;Retail;Acquired;$119;United States
+iCAD;23;29/3/2023;28%;Healthcare;Post-IPO;$59;United States
+Anyline;;29/3/2023;25%;Other;Series B;$37;Austria
+OnePipe;;29/3/2023;;Finance;Seed;$9;Nigeria
+Shift;;29/3/2023;30%;Transportation;Post-IPO;$504;United States
+Lucid Motors;1300;28/3/2023;18%;Transportation;Post-IPO;$8,300;United States
+Blue Nile;119;28/3/2023;;Retail;Acquired;$62;United States
+AEye;46;28/3/2023;33%;Transportation;Post-IPO;$314;United States
+Rackspace;275;27/3/2023;;Data;Acquired;$17;United States
+Better Therapeutics;;27/3/2023;35%;Healthcare;Post-IPO;$143;United States
+Aspiration;170;24/3/2023;;Finance;Unknown;$250;United States
+The Meet Group;;24/3/2023;;Consumer;Acquired;;United States
+Cimpress;500;23/3/2023;;Retail;Post-IPO;$300;France
+Veeam;200;23/3/2023;;Data;Acquired;$500;United States
+TakeOff;50;23/3/2023;;Retail;Unknown;$146;Ukraine
+Slite;10;23/3/2023;25%;Other;Series A;$15;France
+Indeed;2200;22/3/2023;15%;HR;Acquired;$5;United States
+Logitech;300;22/3/2023;;Hardware;Post-IPO;;Switzerland
+Glassdoor;140;22/3/2023;15%;HR;Acquired;$204;United States
+Wejo;40;22/3/2023;16%;Transportation;Post-IPO;$376;United Kingdom
+Copper;;22/3/2023;15%;Crypto;Series C;$281;United Kingdom
+Rewind;;22/3/2023;;Data;Series B;$80;Canada
+Roofstock;;22/3/2023;27%;Real Estate;Series E;$365;United States
+Just Eat;1700;21/3/2023;;Food;Acquired;;United Kingdom
+Marvell;320;21/3/2023;4%;Hardware;Post-IPO;;United States
+Workhuman;130;21/3/2023;10%;HR;Unknown;$131;Ireland
+FreshBooks;80;21/3/2023;10%;Finance;Unknown;$331;Canada
+Xing;68;21/3/2023;;HR;Series A;;Germany
+Mr Yum;40;21/3/2023;;Food;Series A;$101;Australia
+Smallcase;15;21/3/2023;4%;Finance;Series C;$62;India
+Expedia;;21/3/2023;;Travel;Post-IPO;$3,300;United States
+GAMURS Group;;21/3/2023;;Consumer;Series A;$17;Australia
+Grin;;21/3/2023;;Marketing;Series B;$145;United States
+Laybuy;;21/3/2023;10%;Finance;Post-IPO;$130;New Zealand
+Amazon;9000;20/3/2023;;Retail;Post-IPO;$108;United States
+Huuuge Games;;20/3/2023;10%;Consumer;Series C;$57;Poland
+Livspace;100;17/3/2023;2%;Retail;Series F;$431;India
+Symend;50;17/3/2023;25%;Other;Series C;$148;Canada
+Candor Technology;;17/3/2023;;Real Estate;Unknown;$23;United States
+Freshworks;114;16/3/2023;2%;Support;Post-IPO;$484;United States
+Coherent;108;16/3/2023;;Manufacturing;Post-IPO;;United States
+Runtastic;70;16/3/2023;28%;Fitness;Acquired;;Austria
+Course Hero;42;16/3/2023;15%;Education;Series C;$477;United States
+Leafly;40;16/3/2023;21%;Retail;Post-IPO;$71;United States
+Bonusly;;16/3/2023;;HR;Series B;$31;United States
+Klaviyo;140;15/3/2023;;Marketing;Unknown;$778;United States
+Dukaan;56;15/3/2023;30%;Retail;Series A;$17;India
+Boxed;32;15/3/2023;25%;Retail;Post-IPO;$365;United States
+Nubank;30;15/3/2023;;Finance;Post-IPO;$4,100;Brazil
+TradeWindow;25;15/3/2023;30%;Finance;Series B;$24;New Zealand
+Hometap;;15/3/2023;;Real Estate;Unknown;$172;United States
+Meta;10000;14/3/2023;;Consumer;Post-IPO;$26,000;United States
+Fetch;100;14/3/2023;10%;Retail;Series E;$581;United States
+Anchorage Digital;75;14/3/2023;20%;Crypto;Series D;$487;United States
+Avidbots;50;14/3/2023;14%;Hardware;Series C;$106;Canada
+Samsung;30;14/3/2023;;Hardware;Post-IPO;;United States
+Kaleidoscope;15;14/3/2023;30%;Finance;Series A;$16;United States
+GoTo Group;600;10/3/2023;;Transportation;Post-IPO;$1,300;Indonesia
+Cookpad;80;10/3/2023;;Consumer;Unknown;;Japan
+Xero;800;9/3/2023;15%;Finance;Post-IPO;$681;New Zealand
+Shopee;200;9/3/2023;;Food;Unknown;;Indonesia
+Gopuff;100;9/3/2023;2%;Food;Series H;$3,400;United States
+Wave Financial;50;9/3/2023;;Finance;Acquired;$79;Canada
+Morning Brew;40;9/3/2023;;Media;Acquired;;United States
+Bonusly;;9/3/2023;;HR;Series B;$31;United States
+Neoleukin Therapeutics;;9/3/2023;70%;Healthcare;Post-IPO;$157;United States
+Toucan;;9/3/2023;100%;Education;Series A;;United States
+Wattpad;42;8/3/2023;15%;Media;Acquired;$117;Canada
+Appcues;;8/3/2023;15%;Data;Series B;$52;United States
+Pristyn Care;300;7/3/2023;15%;Healthcare;Series E;$177;India
+Zwift;80;7/3/2023;15%;Fitness;Series C;$619;United States
+Catch;;7/3/2023;100%;Finance;Series A;$18;United States
+RDX Works;;7/3/2023;25%;Crypto;Unknown;$6;United Kingdom
+Take-Two Interactive;;7/3/2023;;Consumer;Post-IPO;$2,700;United States
+Zulily;;7/3/2023;;Retail;Acquired;$194;United States
+Atlassian;500;6/3/2023;5%;Other;Post-IPO;$210;Australia
+SiriusXM;475;6/3/2023;8%;Media;Post-IPO;$525;United States
+Alerzo;400;6/3/2023;;Retail;Series B;$16;Nigeria
+UKG;265;6/3/2023;;HR;Unknown;;United States
+UpGrad;120;6/3/2023;;Education;Unknown;$631;India
+HomeLane;30;6/3/2023;;Retail;Series E;$116;India
+Ankorstore;;6/3/2023;;Retail;Series C;$365;France
+No Fluff Jobs;13;4/3/2023;;HR;Acquired;;Poland
+Loft;340;3/3/2023;15%;Real Estate;Unknown;$788;Brazil
+Embark Trucks;230;3/3/2023;70%;Transportation;Post-IPO;$317;United States
+Lendi;100;3/3/2023;;Real Estate;Unknown;$59;Australia
+UserTesting;63;3/3/2023;;Marketing;Acquired;$152;United States
+Airbnb;30;3/3/2023;;Travel;Post-IPO;$6,400;United States
+Accolade;;3/3/2023;;Healthcare;Post-IPO;$458;United States
+Indigo;;3/3/2023;;Other;Series F;$1,200;United States
+Zscaler;177;2/3/2023;3%;Security;Post-IPO;$148;United States
+MasterClass;79;2/3/2023;;Education;Series E;$461;United States
+Ambev Tech;50;2/3/2023;;Food;Acquired;;Brazil
+Fittr;30;2/3/2023;11%;Fitness;Series A;$13;India
+CNET;12;2/3/2023;10%;Media;Acquired;$20;United States
+Comparis;;2/3/2023;10%;Finance;Unknown;;Switzerland
+Flipkart;;2/3/2023;;Retail;Acquired;$12,900;India
+Kandela;;2/3/2023;100%;Consumer;Acquired;;United States
+Orchard;;2/3/2023;;Real Estate;Series D;$472;United States
+Truckstop.com;;2/3/2023;;Logistics;Acquired;;United States
+Thoughtworks;500;1/3/2023;4%;Other;Post-IPO;$748;United States
+iFood;355;1/3/2023;6%;Food;Subsidiary;$2,100;Brazil
+Color Health;300;1/3/2023;;Healthcare;Series E;$482;United States
+Waymo;209;1/3/2023;8%;Transportation;Subsidiary;$5,500;United States
+PayFit;200;1/3/2023;20%;HR;Series E;$495;France
+Yellow.ai;200;1/3/2023;;Support;Series C;$102;United States
+Sonder;100;1/3/2023;14%;Travel;Post-IPO;$839;United States
+Protego Trust Bank;;1/3/2023;50%;Crypto;Series A;$70;United States
+Electronic Arts;200;28/2/2023;;Consumer;Post-IPO;$2;United States
+Eventbrite;80;28/2/2023;8%;Consumer;Post-IPO;$557;United States
+Ezoic;10;28/2/2023;;Infrastructure;Series A;$39;United States
+DUX Education;;28/2/2023;100%;Education;Unknown;;India
+MeridianLink;;28/2/2023;9%;Finance;Post-IPO;$485;United States
+Sono Motors;300;27/2/2023;;Transportation;Post-IPO;$126;Germany
+Cerebral;285;27/2/2023;15%;Healthcare;Series C;$462;United States
+Amount;130;27/2/2023;25%;Finance;Unknown;$283;United States
+Palantir;75;27/2/2023;2%;Data;Post-IPO;$3,000;United States
+Outreach;70;27/2/2023;7%;Sales;Series G;$489;United States
+Stytch;19;27/2/2023;25%;Security;Series B;$126;United States
+BitSight;40;26/2/2023;;Security;Unknown;$401;Israel
+Twitter;200;25/2/2023;10%;Consumer;Post-IPO;$12,900;United States
+Ericsson;8500;24/2/2023;8%;Other;Post-IPO;$663;Sweden
+SAP Labs;300;24/2/2023;;Other;Subsidiary;$1,300;India
+Velodyne Lidar;220;24/2/2023;;Transportation;Acquired;$575;United States
+Medallia;59;24/2/2023;;Support;Acquired;$325;United States
+Eat Just;40;24/2/2023;;Food;Unknown;$465;United States
+Lucira Health;26;24/2/2023;;Healthcare;Post-IPO;$132;United States
+Stax;24;24/2/2023;;Finance;Series D;$263;United States
+EQRx;;24/2/2023;18%;Healthcare;Post-IPO;$1,900;United States
+Poshmark;;24/2/2023;2%;Retail;Acquired;$153;United States
+Merative;200;23/2/2023;10%;Healthcare;Acquired;;United States
+OneFootball;150;23/2/2023;32%;Marketing;Series D;$442;Germany
+The Iconic;69;23/2/2023;6%;Retail;Unknown;;Australia
+EVgo;40;23/2/2023;;Transportation;Post-IPO;$400;United States
+StrongDM;40;23/2/2023;;Infrastructure;Series B;$76;United States
+Dapper Labs;;23/2/2023;20%;Crypto;Series D;$607;United States
+Messari;;23/2/2023;15%;Crypto;Series B;$61;United States
+Vibrent Health;;23/2/2023;13%;Healthcare;Unknown;;United States
+Synamedia;200;22/2/2023;12%;Media;Unknown;;United Kingdom
+TaskUs;186;22/2/2023;;Support;Post-IPO;$279;United States
+Arch Oncology;;22/2/2023;;Healthcare;Series C;$155;United States
+Immutable;;22/2/2023;11%;Crypto;Series C;$279;Australia
+Jounce Therapeutics;;22/2/2023;57%;Healthcare;Acquired;$194;United States
+Locomation;;22/2/2023;100%;Transportation;Seed;$57;United States
+Green Labs;350;21/2/2023;70%;Food;Series C;$214;South Korea
+Polygon;100;21/2/2023;20%;Crypto;Unknown;$451;India
+Crunchyroll;85;21/2/2023;;Media;Unknown;$26;Japan
+Ethos Life;50;21/2/2023;;Finance;Series D;$406;United States
+Basis Technologies;40;21/2/2023;4%;Marketing;Series B;$52;United States
+Bolt;17;21/2/2023;;Transportation;Series F;;Nigeria
+Criteo;;21/2/2023;;Marketing;Post-IPO;$61;France
+PeerStreet;;21/2/2023;;Real Estate;Series C;$121;United States
+Zalando;;21/2/2023;;Retail;Post-IPO;$467;Germany
+MyGate;200;20/2/2023;30%;Other;Series B;$79;India
+Fireblocks;30;20/2/2023;5%;Crypto;Series E;$1,000;United States
+Kinde;8;20/2/2023;28%;Other;Seed;$10;Australia
+Fipola;;20/2/2023;100%;Food;Series A;$9;United States
+HP;100;19/2/2023;;Hardware;Post-IPO;$4,200;Israel
+Micron;2400;17/2/2023;5%;Hardware;Post-IPO;$50;United States
+Tencent;300;17/2/2023;;Consumer;Post-IPO;$12,600;China
+Evernote;129;17/2/2023;;Consumer;Acquired;$290;United States
+Chipper Cash;100;17/2/2023;33%;Finance;Series C;$302;United States
+Digimarc;;17/2/2023;;Other;Post-IPO;$105;United States
+Reserve;;17/2/2023;;Crypto;Unknown;;United States
+DocuSign;680;16/2/2023;10%;Sales;Post-IPO;$536;United States
+Pico Interactive;400;16/2/2023;20%;Other;Acquired;$62;United States
+The RealReal;230;16/2/2023;7%;Retail;Post-IPO;$356;United States
+Smartsheet;85;16/2/2023;3%;Other;Post-IPO;$152;United States
+Convoy;;16/2/2023;;Logistics;Series E;$1,100;United States
+Wix;370;15/2/2023;6%;Marketing;Post-IPO;$58;Israel
+ServiceTitan;221;15/2/2023;8%;Sales;Series G;$1,100;United States
+Neon;210;15/2/2023;9%;Finance;Series D;$720;Brazil
+Jellysmack;208;15/2/2023;;Media;Series C;$22;France
+DigitalOcean;200;15/2/2023;11%;Infrastructure;Post-IPO;$491;United States
+Sprinklr;100;15/2/2023;4%;Support;Post-IPO;$429;United States
+Betterment;28;15/2/2023;;Finance;Series F;$435;United States
+Divvy Homes;;15/2/2023;;Real Estate;Series B;$180;United States
+Milkrun;;15/2/2023;20%;Food;Series A;$86;Australia
+Momentive;;15/2/2023;14%;Marketing;Post-IPO;$1,100;United States
+Observe.AI;;15/2/2023;;Support;Series C;$214;United States
+Religion of Sports;;15/2/2023;;Media;Series B;$63;United States
+Tackle;;15/2/2023;15%;Other;Series C;$148;United States
+Vicarious Surgical;;15/2/2023;14%;Healthcare;Post-IPO;$185;United States
+Blackbaud;500;14/2/2023;14%;Other;Post-IPO;;United States
+CommerceHub;371;14/2/2023;31%;Retail;Acquired;;United States
+Dropp;60;14/2/2023;100%;Retail;Unknown;$2;Germany
+HackerEarth;;14/2/2023;8%;HR;Series B;$11;United States
+PhableCare;;14/2/2023;70%;Healthcare;Series B;$40;India
+Udemy;;14/2/2023;10%;Education;Post-IPO;$311;United States
+Twilio;1500;13/2/2023;17%;Other;Post-IPO;$614;United States
+Electric;141;13/2/2023;25%;Other;Series D;$212;United States
+EMX Digital;100;13/2/2023;100%;Marketing;Unknown;;United States
+PetLove;94;13/2/2023;;Retail;Series C;$225;Brazil
+iRobot;85;13/2/2023;7%;Consumer;Acquired;$30;United States
+Collective Health;54;13/2/2023;;Healthcare;Series F;$719;United States
+Magic Eden;22;13/2/2023;;Crypto;Series B;$170;United States
+Casavo;;13/2/2023;30%;Real Estate;Unknown;$708;Italy
+Foodpanda;;13/2/2023;;Food;Acquired;$749;Singapore
+Getir;;13/2/2023;;Food;Series E;$1,800;United Kingdom
+LinkedIn;;13/2/2023;;Recruiting;Acquired;$154;United States
+Moladin;360;12/2/2023;11%;Transportation;Series B;$138;Indonesia
+TripleLift;100;10/2/2023;20%;Marketing;Acquired;$16;United States
+Titan Medical;48;10/2/2023;72%;Healthcare;Post-IPO;$278;Canada
+TikTok India;40;10/2/2023;;Consumer;Acquired;$9,400;India
+Syft Technologies;30;10/2/2023;20%;Manufacturing;Private Equity;;New Zealand
+Open Co;;10/2/2023;;Finance;Series D;$140;Brazil
+Rigetti Computing;;10/2/2023;28%;Hardware;Post-IPO;$298;United States
+Wonderschool;;10/2/2023;;Education;Series A;$24;United States
+Yahoo;1600;9/2/2023;20%;Consumer;Acquired;$6;United States
+Misfits Market;649;9/2/2023;33%;Food;Series C;$526;United States
+Deliveroo;350;9/2/2023;9%;Food;Post-IPO;$1,700;United Kingdom
+Olive AI;215;9/2/2023;35%;Healthcare;Series H;$856;United States
+Oportun;155;9/2/2023;10%;Finance;Post-IPO;$566;United States
+GitLab;130;9/2/2023;7%;Product;Post-IPO;$413;United States
+Bark;126;9/2/2023;12%;Retail;Post-IPO;;United States
+Veriff;66;9/2/2023;12%;Security;Series C;$192;Estonia
+REE Automotive;31;9/2/2023;11%;Transportation;Post-IPO;$317;Israel
+GitHub;;9/2/2023;10%;Product;Acquired;$350;United States
+Quillt;;9/2/2023;;Media;Unknown;;United States
+WeTrade;;9/2/2023;100%;Crypto;Unknown;;India
+GoDaddy;530;8/2/2023;8%;Marketing;Post-IPO;$800;United States
+Affirm;500;8/2/2023;19%;Finance;Post-IPO;$1,500;United States
+Gusto;126;8/2/2023;5%;HR;Series E;$746;United States
+Gong;80;8/2/2023;7%;Sales;Series E;$583;United States
+Beam Benefits;31;8/2/2023;8%;Healthcare;Series E;$168;United States
+Equitybee;24;8/2/2023;25%;Finance;Series B;$85;United States
+Baraja;;8/2/2023;75%;Transportation;Unknown;$63;Australia
+Koho;;8/2/2023;14%;Finance;Series D;$278;Canada
+Medly;;8/2/2023;100%;Healthcare;Series C;$100;United States
+Nearmap;;8/2/2023;20%;Construction;Acquired;$15;Australia
+Zoom;1300;7/2/2023;15%;Other;Post-IPO;$276;United States
+eBay;500;7/2/2023;4%;Retail;Post-IPO;$1,200;United States
+SecureWorks;212;7/2/2023;9%;Security;Post-IPO;$83;United States
+Salesloft;100;7/2/2023;10%;Sales;Acquired;$245;United States
+Openpay;83;7/2/2023;100%;Finance;Post-IPO;$299;Australia
+LearnUpon;27;7/2/2023;9%;Education;Private Equity;$56;Ireland
+Sana Benefits;;7/2/2023;19%;HR;Series B;$106;United States
+Dell;6650;6/2/2023;5%;Hardware;Post-IPO;;United States
+Loggi;300;6/2/2023;7%;Logistics;Series F;$507;Brazil
+Catch.com.au;100;6/2/2023;;Retail;Acquired;$80;Australia
+VinFast US;80;6/2/2023;;Transportation;Subsidiary;;United States
+Drift;59;6/2/2023;;Marketing;Acquired;$107;United States
+Pocket Aces;50;6/2/2023;25%;Media;Unknown;$19;India
+Clari;20;6/2/2023;;Sales;Series F;$496;United States
+C6 Bank;;6/2/2023;;Finance;Unknown;$2,300;Brazil
+Daraz;;6/2/2023;11%;Retail;Unknown;;Singapore
+TenureX;;6/2/2023;;Finance;Seed;$6;Israel
+Kyruus;70;5/2/2023;;Healthcare;Unknown;$183;United States
+Lightico;20;5/2/2023;25%;Finance;Series B;$42;Israel
+Eightfold AI;90;3/2/2023;15%;HR;Series E;$396;United States
+FarEye;90;3/2/2023;;Logistics;Series E;$150;India
+Protocol Labs;89;3/2/2023;20%;Crypto;Unknown;$10;United States
+Built Technologies copy;;3/2/2023;8%;Construction;Unknown;$313;United States
+Finder;;3/2/2023;15%;Retail;Unknown;$30;Australia
+Byju's;1500;2/2/2023;;Education;Private Equity;$5,500;India
+Okta;300;2/2/2023;5%;Security;Post-IPO;$1,200;United States
+Autodesk;250;2/2/2023;2%;Other;Post-IPO;;United States
+Mindstrong;127;2/2/2023;;Healthcare;Series C;$160;United States
+NCC Group;125;2/2/2023;7%;Security;Post-IPO;;United Kingdom
+Miro;119;2/2/2023;7%;Other;Series C;$476;United States
+Getir;100;2/2/2023;;Food;Series E;$1,800;United States
+Highspot;100;2/2/2023;10%;Sales;Series F;$644;United States
+Bittrex;80;2/2/2023;;Crypto;Unknown;;United States
+Snowplow;40;2/2/2023;;Data;Series B;$55;United States
+Articulate;38;2/2/2023;;Education;Series A;$1,500;United States
+Desktop Metal;;2/2/2023;;Other;Post-IPO;$811;United States
+Getaround;;2/2/2023;10%;Transportation;Post-IPO;$948;United States
+NCSoft;;2/2/2023;20%;Consumer;Post-IPO;$240;South Korea
+Sharesies;;2/2/2023;;Finance;Series C;$60;New Zealand
+Talkdesk;;2/2/2023;;Support;Series D;$497;United States
+Splunk;325;1/2/2023;4%;Data;Post-IPO;$2,400;United States
+Pinterest;150;1/2/2023;;Consumer;Post-IPO;$1,500;United States
+DraftKings;140;1/2/2023;4%;Consumer;Post-IPO;$719;United States
+Cyren;121;1/2/2023;;Security;Post-IPO;$161;United States
+Workato;90;1/2/2023;10%;Other;Series E;$415;United States
+VerticalScope;60;1/2/2023;22%;Media;Post-IPO;;Canada
+Wheel;56;1/2/2023;28%;Healthcare;Series C;$215;United States
+Chainalysis;44;1/2/2023;5%;Crypto;Series F;$536;United States
+Appgate;34;1/2/2023;8%;Security;Post-IPO;;United States
+Exterro;24;1/2/2023;3%;Legal;Private Equity;$100;United States
+TheSkimm;17;1/2/2023;10%;Media;Series C;$28;United States
+Ada;;1/2/2023;;Support;Series C;$190;Canada
+Bustle Digital Group;;1/2/2023;8%;Media;Series E;$80;United States
+Frequency Therapeutics;;1/2/2023;50%;Healthcare;Post-IPO;$76;United States
+MariaDB;;1/2/2023;8%;Data;Post-IPO;$245;Finland
+Match Group;;1/2/2023;8%;Consumer;Post-IPO;;United States
+Omnipresent;;1/2/2023;;HR;Series B;$137;United States
+Picnic;;1/2/2023;;Food;Unknown;$52;United States
+Rivian;;1/2/2023;6%;Transportation;Post-IPO;$10,700;United States
+PayPal;2000;31/1/2023;7%;Finance;Post-IPO;$216;United States
+NetApp;960;31/1/2023;8%;Data;Post-IPO;;United States
+Workday;525;31/1/2023;3%;HR;Post-IPO;$230;United States
+HubSpot;500;31/1/2023;7%;Marketing;Post-IPO;$100;United States
+Upstart;365;31/1/2023;20%;Finance;Post-IPO;$144;United States
+Software AG;200;31/1/2023;4%;Data;Post-IPO;$344;Germany
+Wish;150;31/1/2023;17%;Retail;Post-IPO;$1,600;United States
+Wefox;100;31/1/2023;;Finance;Series D;$1,300;Germany
+Tilting Point;60;31/1/2023;14%;Consumer;Unknown;$235;United States
+Gokada;54;31/1/2023;;Transportation;Unknown;$12;Nigeria
+Nubank;40;31/1/2023;;Finance;Post-IPO;$4,100;Brazil
+AU10TIX;19;31/1/2023;9%;Security;Unknown;$80;Israel
+National Instruments;;31/1/2023;4%;Hardware;Post-IPO;;United States
+OpenText;;31/1/2023;8%;Data;Post-IPO;$1,100;Canada
+Philips;6000;30/1/2023;13%;Healthcare;Post-IPO;;Netherlands
+OLX Group;1500;30/1/2023;15%;Marketing;Acquired;;Netherlands
+Arrival;800;30/1/2023;50%;Transportation;Post-IPO;$629;United Kingdom
+Groupon;500;30/1/2023;;Retail;Post-IPO;$1,400;United States
+Intel;343;30/1/2023;;Hardware;Post-IPO;$12;United States
+Glovo;250;30/1/2023;6%;Food;Acquired;$1,200;Spain
+Delivery Hero;156;30/1/2023;4%;Food;Post-IPO;$9,900;Germany
+Impossible Foods copy;140;30/1/2023;20%;Food;Series H;$1,900;United States
+Chrono24;65;30/1/2023;13%;Retail;Series C;$205;Germany
+BM Technologies;;30/1/2023;25%;Finance;Post-IPO;;United States
+Olist;;30/1/2023;;Retail;Series E;$322;Brazil
+Oyster;;30/1/2023;;HR;Series C;$224;United States
+Prime Trust;;30/1/2023;33%;Crypto;Series B;$176;United States
+Quantum SI;;30/1/2023;12%;Healthcare;Post-IPO;$425;United States
+SoFi;;30/1/2023;;Finance;Post-IPO;$3,000;United States
+Hoxhunt;;29/1/2023;;Security;Series B;$43;Finland
+Me Poupe;60;28/1/2023;50%;Finance;Unknown;;Brazil
+CoinTracker;19;28/1/2023;;Crypto;Series A;$101;United States
+SSense;138;27/1/2023;7%;Retail;Series A;;Canada
+DealShare;100;27/1/2023;6%;Retail;Series E;$390;India
+Ruggable;100;27/1/2023;;Retail;Seed;;United States
+Synopsys;100;27/1/2023;;Other;Post-IPO;;United States
+Heycar;73;27/1/2023;;Transportation;Unknown;;Germany
+Matrixport;29;27/1/2023;10%;Crypto;Series C;$100;Singapore
+Shakepay;21;27/1/2023;25%;Crypto;Series A;$45;Canada
+#Paid;19;27/1/2023;17%;Marketing;Series B;$21;Canada
+Decent;;27/1/2023;;Healthcare;Series A;$18;United States
+Feedzai;;27/1/2023;;Finance;Unknown;$273;Portugal
+Nate;;27/1/2023;;Retail;Series A;$47;United States
+Soundwide;;27/1/2023;8%;Other;;;Germany
+SAP;3000;26/1/2023;3%;Other;Post-IPO;$1,300;Germany
+Confluent;221;26/1/2023;8%;Data;Post-IPO;$455;United States
+DriveWealth;;26/1/2023;20%;Finance;Series D;$550;United States
+Mode Global;;26/1/2023;100%;Finance;Post-IPO;;United Kingdom
+Plus One Robotics;;26/1/2023;10%;Other;Series B;$43;United States
+Quora;;26/1/2023;;Consumer;Series D;$226;United States
+IBM;3900;25/1/2023;2%;Hardware;Post-IPO;;United States
+Lam Research;1300;25/1/2023;7%;Hardware;Post-IPO;;United States
+Shutterfly;360;25/1/2023;;Retail;Acquired;$50;United States
+Luno;330;25/1/2023;35%;Crypto;Acquired;$13;United Kingdom
+Clear Capital;250;25/1/2023;25%;Real Estate;Unknown;;United States
+Guardant Health;130;25/1/2023;7%;Healthcare;Post-IPO;$550;United States
+SirionLabs;130;25/1/2023;15%;Legal;Series D;$171;United States
+Tier Mobility;80;25/1/2023;7%;Transportation;Series D;$646;Germany
+CareRev;;25/1/2023;;Healthcare;Series A;$51;United States
+Finastra;;25/1/2023;;Finance;Unknown;;Israel
+Noom;;25/1/2023;;Fitness;Series F;$657;United States
+PagSeguro;;25/1/2023;7%;Finance;Post-IPO;;Brazil
+Prosus;;25/1/2023;30%;Other;Unknown;;Netherlands
+Vacasa;1300;24/1/2023;17%;Travel;Post-IPO;$834;United States
+Innovaccer;245;24/1/2023;15%;Healthcare;Series E;$379;United States
+Bolt;50;24/1/2023;10%;Finance;Series E;$1,300;United States
+PartnerStack;40;24/1/2023;20%;Sales;Series B;$36;Canada
+Gitpod;21;24/1/2023;28%;Product;Series A;$41;Germany
+OFFOR Health;16;24/1/2023;;Healthcare;Series A;$14;United States
+Venngage;11;24/1/2023;20%;Marketing;Unknown;;Canada
+CoachHub;;24/1/2023;10%;HR;Series C;$332;Germany
+Corvus Insurance;;24/1/2023;14%;Finance;Series C;$160;United States
+Icon;;24/1/2023;;Construction;Series B;$451;United States
+PagerDuty;;24/1/2023;7%;Product;Post-IPO;$173;United States
+Scoro;;24/1/2023;9%;HR;Series B;$23;United Kingdom
+Spotify;600;23/1/2023;6%;Media;Post-IPO;$2,100;Sweden
+Uber Freight;150;23/1/2023;3%;Logistics;Subsidiary;$2,700;United States
+Inmobi;50;23/1/2023;;Marketing;Unknown;$320;India
+Innovid;40;23/1/2023;10%;Marketing;Post-IPO;$295;United States
+Booktopia;30;23/1/2023;;Retail;Series A;$23;Australia
+Ermetic;30;23/1/2023;17%;Security;Series B;$97;United States
+Namogoo;20;23/1/2023;15%;Marketing;Series C;$69;United States
+Camp K12;;23/1/2023;70%;Education;Series A;$16;India
+Gemini;;23/1/2023;10%;Crypto;Unknown;$423;United States
+Yext;;23/1/2023;8%;Marketing;Post-IPO;$117;United States
+BUX;;22/1/2023;;Finance;Series C;$115;Netherlands
+Google;12000;20/1/2023;6%;Consumer;Post-IPO;$26;United States
+Wayfair;1750;20/1/2023;10%;Retail;Post-IPO;$1,700;United States
+Swiggy;380;20/1/2023;6%;Food;Unknown;$3,600;India
+MediBuddy;200;20/1/2023;8%;Healthcare;Acquired;$192;India
+Vox Media;130;20/1/2023;7%;Media;Series F;$307;United States
+BitTorrent;92;20/1/2023;;Infrastructure;Acquired;;United States
+Karat;47;20/1/2023;;HR;Unknown;$169;United States
+Enjoei;31;20/1/2023;10%;Retail;Unknown;$14;Brazil
+Edifecs;30;20/1/2023;;Healthcare;Unknown;$1;United States
+Citrine Informatics;22;20/1/2023;27%;Data;Series C;$64;United States
+Avalara;;20/1/2023;;Finance;Acquired;$341;United States
+Cyteir Therapeutics;;20/1/2023;70%;Healthcare;Series C;$156;United States
+Morning Consult;;20/1/2023;;Data;Series B;$91;United States
+TikTok;;20/1/2023;;Consumer;Acquired;;United States
+Zappos;;20/1/2023;;Retail;Acquired;$62;United States
+Capital One;1100;19/1/2023;;Finance;Post-IPO;;United States
+Proterra;300;19/1/2023;;Transportation;Post-IPO;$1,200;United States
+WeWork;300;19/1/2023;;Real Estate;Post-IPO;$22,200;United States
+Hubilo;115;19/1/2023;35%;Other;Series B;$153;United States
+Saks.com;100;19/1/2023;5%;Retail;Unknown;$965;United States
+CS Disco;62;19/1/2023;9%;Legal;Post-IPO;$233;United States
+Riot Games;46;19/1/2023;;Consumer;Acquired;$21;United States
+Hydrow;30;19/1/2023;;Fitness;Series D;$269;United States
+Earth Rides;;19/1/2023;100%;Transportation;Unknown;$2;United States
+Fandom;;19/1/2023;;Media;Series E;$145;United States
+IAM Robotics;;19/1/2023;;Hardware;Unknown;$21;United States
+Icertis;;19/1/2023;;Legal;Unknown;$521;United States
+Magnite;;19/1/2023;6%;Marketing;Post-IPO;$400;United States
+Mudafy;;19/1/2023;70%;Real Estate;Series A;$13;United States
+Personalis;;19/1/2023;30%;Healthcare;Post-IPO;$225;United States
+Prisma;;19/1/2023;28%;Data;Series B;$56;United States
+Spaceship;;19/1/2023;;Finance;Series A;$41;Australia
+Wallbox;;19/1/2023;15%;Energy;Post-IPO;$167;Spain
+Microsoft;10000;18/1/2023;5%;Other;Post-IPO;$1;United States
+Sophos;450;18/1/2023;10%;Security;Acquired;$125;United States
+Teladoc Health;300;18/1/2023;6%;Healthcare;Post-IPO;$172;United States
+Vroom;275;18/1/2023;20%;Transportation;Post-IPO;$1,300;United States
+8x8;155;18/1/2023;7%;Support;Post-IPO;$253;United States
+Pagaya;140;18/1/2023;20%;Finance;Post-IPO;$571;United States
+Benevity;137;18/1/2023;14%;Other;Unknown;$69;Canada
+Inspirato;109;18/1/2023;12%;Travel;Post-IPO;$179;United States
+Jumpcloud;100;18/1/2023;12%;Security;Series F;$416;United States
+nCino;100;18/1/2023;7%;Finance;Post-IPO;$1,100;United States
+Starry;100;18/1/2023;24%;Other;Post-IPO;$260;United States
+Hootsuite;70;18/1/2023;7%;Marketing;Series C;$300;Canada
+Clue;31;18/1/2023;31%;Healthcare;Unknown;$47;Germany
+Addepar;20;18/1/2023;3%;Finance;Series F;$491;United States
+80 Acres Farms;;18/1/2023;10%;Food;Unknown;$275;United States
+Aiven;;18/1/2023;20%;Infrastructure;Series D;$420;Finland
+Bally's Interactive;;18/1/2023;15%;Consumer;Post-IPO;$946;United States
+Betterfly;;18/1/2023;30%;Healthcare;Series C;$204;Chile
+Cazoo;;18/1/2023;;Transportation;Post-IPO;$2,000;United Kingdom
+Coda;;18/1/2023;;Other;Series D;$240;United States
+Cypress.io;;18/1/2023;;Product;Series B;$54;United States
+Lucid Diagnostics;;18/1/2023;20%;Healthcare;Post-IPO;;United States
+Mavenir;;18/1/2023;;Infrastructure;Acquired;$854;United States
+Redbubble;;18/1/2023;14%;Retail;Post-IPO;$55;Australia
+Lightspeed Commerce;300;17/1/2023;10%;Retail;Post-IPO;$1,200;Canada
+Unity;284;17/1/2023;3%;Other;Post-IPO;$1,300;United States
+Britishvolt;206;17/1/2023;100%;Transportation;Unknown;$2,400;United Kingdom
+Clutch;150;17/1/2023;;Transportation;Unknown;$253;Canada
+Exotel;142;17/1/2023;15%;Support;Series D;$87;India
+Unico;110;17/1/2023;10%;Other;Series D;$336;Brazil
+Tul;100;17/1/2023;;Construction;Series B;$218;Colombia
+American Robotics;50;17/1/2023;65%;Other;Acquired;$92;United States
+Luxury Presence;44;17/1/2023;;Real Estate;Series B;$31;United States
+RingCentral;30;17/1/2023;;Other;Post-IPO;$44;United States
+Avaya;;17/1/2023;;Other;Post-IPO;$700;United States
+Fishbrain;;17/1/2023;;Consumer;Unknown;$59;United States
+GoMechanic;;17/1/2023;70%;Transportation;Series C;$54;India
+LiveVox;;17/1/2023;16%;Support;Post-IPO;$12;United States
+Oracle;;17/1/2023;;Other;Post-IPO;;United States
+Rappi;;17/1/2023;;Food;Unknown;$2,300;Argentina
+RateGenius;;17/1/2023;;Finance;Acquired;$2;United States
+XP;;17/1/2023;;Finance;Post-IPO;;Brazil
+PagBank;500;16/1/2023;7%;Finance;Post-IPO;;Brazil
+ShareChat;500;16/1/2023;20%;Consumer;Series H;$1,700;India
+Gramophone;75;16/1/2023;;Food;Series B;$17;India
+ClearCo;50;16/1/2023;30%;Finance;Series C;$698;Canada
+Dunzo;;16/1/2023;3%;Food;Unknown;$382;India
+Ignition;;16/1/2023;10%;Finance;Series C;$74;Australia
+Rebel Foods;;16/1/2023;2%;Food;Unknown;$548;India
+Captain Fresh;120;15/1/2023;;Food;Series C;$126;India
+Snappy;100;15/1/2023;30%;Marketing;Series C;$104;United States
+BharatAgri;40;15/1/2023;43%;Food;Series A;$21;India
+DeHaat;;15/1/2023;5%;Food;Series E;$254;India
+Black Shark;900;13/1/2023;;Hardware;Unknown;;China
+Ola;200;13/1/2023;;Transportation;Series J;$5,000;India
+Bonterra;140;13/1/2023;10%;Other;Unknown;;United States
+Vial;40;13/1/2023;;Healthcare;Series B;$101;United States
+Arch Oncology;;13/1/2023;100%;Healthcare;Series C;$155;United States
+Carvana;;13/1/2023;;Transportation;Post-IPO;$1,600;United States
+CoSchedule;;13/1/2023;;Marketing;Unknown;$2;United States
+GoCanvas;;13/1/2023;;Other;Acquired;$21;United States
+Jellyfish;;13/1/2023;9%;Product;Series C;$114;United States
+Lending Club;225;12/1/2023;14%;Finance;Post-IPO;$392;United States
+SmartNews;120;12/1/2023;40%;Media;Series F;$410;United States
+Skit.ai;115;12/1/2023;;Support;Series B;$28;India
+Pier;111;12/1/2023;39%;Finance;Series B;$42;Brazil
+Blockchain.com;110;12/1/2023;28%;Crypto;Series D;$490;United Kingdom
+Greenlight;104;12/1/2023;21%;Finance;Series D;$556;United States
+Cashfree Payments;100;12/1/2023;;Finance;Series B;$41;India
+Mapbox;64;12/1/2023;;Data;Unknown;$334;United States
+Definitive Healthcare;55;12/1/2023;6%;Healthcare;Post-IPO;;United States
+Akili Labs;46;12/1/2023;30%;Healthcare;Post-IPO;$301;United States
+Career Karma;22;12/1/2023;;Education;Series B;$51;United States
+Crypto.com;;12/1/2023;20%;Crypto;Unknown;;United States
+Lattice;;12/1/2023;15%;HR;Series F;$328;United States
+Life360;;12/1/2023;14%;Consumer;Post-IPO;$158;United States
+Rock Content;;12/1/2023;15%;Marketing;Series B;$34;United States
+Flexport;640;11/1/2023;20%;Logistics;Series E;$2,400;United States
+Qualtrics;270;11/1/2023;5%;Other;Post-IPO;$400;United States
+Verily;250;11/1/2023;15%;Healthcare;;$3,500;United States
+Tipalti;123;11/1/2023;11%;Finance;Series F;$565;United States
+Jumio;100;11/1/2023;6%;Security;Private Equity;$205;United States
+CoinDCX;80;11/1/2023;;Crypto;Series D;$244;India
+HashiCorp;69;11/1/2023;;Security;Post-IPO;$349;United States
+Embark Vet;41;11/1/2023;;Healthcare;Series B;$94;United States
+Intrinsic;40;11/1/2023;20%;Other;Acquired;;United States
+Citizen;33;11/1/2023;;Consumer;Series C;$133;United States
+Carta;;11/1/2023;10%;HR;Series G;$1,100;United States
+Limeade;;11/1/2023;15%;HR;Series C;$33;United States
+Oyster;;11/1/2023;;HR;Series C;$224;United States
+Paddle;;11/1/2023;8%;Finance;Series D;$293;United Kingdom
+Coinbase;950;10/1/2023;20%;Crypto;Post-IPO;$549;United States
+Informatica;450;10/1/2023;7%;Data;Post-IPO;;United States
+Blend;340;10/1/2023;28%;Finance;Post-IPO;$665;United States
+Till Payments;120;10/1/2023;;Finance;Series C;$95;Australia
+ConsenSys;100;10/1/2023;11%;Crypto;Series D;$726;United States
+ForeScout;100;10/1/2023;10%;Security;Acquired;$125;United States
+Thinkific;76;10/1/2023;19%;Education;Post-IPO;$22;Canada
+LEAD;60;10/1/2023;;Education;Series E;$190;India
+Parler;60;10/1/2023;75%;Consumer;Series B;$36;United States
+GoBolt;55;10/1/2023;5%;Logistics;Series C;$178;Canada
+Relevel;40;10/1/2023;20%;HR;;;India
+StreamElements;40;10/1/2023;20%;Media;Series B;$111;Israel
+Cart.com;25;10/1/2023;4%;Retail;Unknown;$383;United States
+100 Thieves;;10/1/2023;;Retail;Series C;$120;United States
+Beamery;;10/1/2023;12%;HR;Series D;$223;United States
+Cart.com;;10/1/2023;;Retail;Unknown;$383;United States
+Citrix;;10/1/2023;15%;Infrastructure;Acquired;$20;United States
+Esper;;10/1/2023;21%;Other;Series A;$10;United States
+WHOOP;;10/1/2023;4%;Fitness;Series F;$404;United States
+Fate Therapeutics;315;9/1/2023;57%;Healthcare;Post-IPO;$1,200;United States
+Century Therapeutics;;9/1/2023;;Healthcare;Post-IPO;$560;United States
+Editas Medicine;;9/1/2023;20%;Healthcare;Post-IPO;$656;United States
+Scale AI;;9/1/2023;20%;Data;Series E;$602;United States
+Minute Media;50;8/1/2023;10%;Media;Series I;$160;United Kingdom
+WalkMe;43;8/1/2023;3%;Other;Post-IPO;$307;United States
+Integrate;;7/1/2023;;Marketing;Acquired;$80;United States
+Huobi;275;6/1/2023;20%;Crypto;Unknown;$2;China
+Carbon Health;200;6/1/2023;;Healthcare;Series D;$522;United States
+Bounce;40;6/1/2023;5%;Transportation;Series D;$214;India
+Aware;;6/1/2023;;Security;Series C;$88;United States
+CareerArc;;6/1/2023;;HR;Private Equity;$30;United States
+CreateMe;;6/1/2023;;Manufacturing;Unknown;;United States
+Lantern;;6/1/2023;100%;Retail;Seed;$40;United States
+Mojo Vision;;6/1/2023;75%;Hardware;Series B;$204;United States
+SuperRare;;6/1/2023;30%;Crypto;Series A;$9;United States
+Cue;388;5/1/2023;;Healthcare;Post-IPO;$999;United States
+SoundHound;200;5/1/2023;50%;Other;Post-IPO;$326;United States
+Socure;104;5/1/2023;19%;Finance;Series E;$646;United States
+Genesis;60;5/1/2023;30%;Crypto;Series A;;United States
+Moglix;40;5/1/2023;2%;Retail;Series F;$472;Singapore
+Twitter;40;5/1/2023;;Consumer;Post-IPO;$12,900;United States
+Everlane;30;5/1/2023;17%;Retail;Unknown;$176;United States
+Pecan AI;30;5/1/2023;25%;Data;Series C;$116;Israel
+Personetics;30;5/1/2023;8%;Support;Private Equity;$178;United States
+Twine Solutions;30;5/1/2023;33%;Hardware;Unknown;$50;Israel
+UpScalio;25;5/1/2023;15%;Retail;Series B;$62;India
+Attentive;;5/1/2023;15%;Marketing;Series E;$863;United States
+Compass;;5/1/2023;;Real Estate;Post-IPO;$1,600;United States
+Megaport;;5/1/2023;;Infrastructure;Post-IPO;$98;Australia
+Stitch Fix;;5/1/2023;20%;Retail;Post-IPO;$79;United States
+TCR2;;5/1/2023;40%;Healthcare;Post-IPO;$173;United States
+Amazon;8000;4/1/2023;2%;Retail;Post-IPO;$108;United States
+Salesforce;8000;4/1/2023;10%;Sales;Post-IPO;$65;United States
+Astronomer;76;4/1/2023;20%;Data;Series C;$282;United States
+Kaltura;75;4/1/2023;11%;Media;Post-IPO;$166;United States
+Augury;20;4/1/2023;5%;Manufacturing;Series E;$274;United States
+Butterfly Network;;4/1/2023;25%;Healthcare;Post-IPO;$530;United States
+Vimeo;;4/1/2023;11%;Consumer;Post-IPO;$450;United States
+Wyre;;4/1/2023;100%;Crypto;Unknown;$29;United States
+Pegasystems;245;3/1/2023;4%;HR;Post-IPO;;United States
+Uniphore;76;3/1/2023;10%;Support;Series E;$620;United States
+Harappa;60;3/1/2023;30%;Education;Acquired;;India
+ByteDance;;3/1/2023;10%;Consumer;Unknown;$9,400;China
+Amdocs;700;2/1/2023;3%;Support;Post-IPO;;United States
+Micron;4800;1/1/2023;10%;Hardware;Post-IPO;$50;United States
+Graphcore;;1/1/2023;;Hardware;Series E;$682;China
+Ezoic;35;31/12/2022;;Infrastructure;Series A;$39;United States
+Gousto;;31/12/2022;14%;Food;Unknown;$675;United Kingdom
+Mara;;31/12/2022;;Crypto;Seed;$23;Kenya
+Bilibili;;27/12/2022;30%;Media;Post-IPO;$3,700;China
+Octopus Network;;27/12/2022;40%;Crypto;Series A;$8;Seychelles
+PayU;150;26/12/2022;6%;Finance;Acquired;;Netherlands
+Element;;25/12/2022;15%;Other;Series B;$96;United Kingdom
+Willow;99;23/12/2022;22%;Real Estate;Unknown;;Australia
+Back Market;93;23/12/2022;13%;Retail;Series E;$1,000;France
+Zoopla;50;23/12/2022;;Real Estate;Series C;$25;United Kingdom
+Qualcomm;153;22/12/2022;;Hardware;Post-IPO;;United States
+TuSimple;350;21/12/2022;25%;Transportation;Post-IPO;$648;United States
+Lendis;;21/12/2022;50%;Other;Series A;$90;Germany
+Chope;65;20/12/2022;24%;Food;Series E;$50;Singapore
+Briza;26;20/12/2022;40%;Finance;Series A;$10;Canada
+StreetBees;;20/12/2022;;Data;Unknown;$63;United Kingdom
+Zhihu;;20/12/2022;10%;Consumer;Series F;$892;China
+Homebot;18;19/12/2022;13%;Real Estate;Acquired;$4;United States
+Health IQ;;19/12/2022;;Healthcare;Series D;$136;United States
+Xiaomi;;19/12/2022;;Consumer;Post-IPO;$7,400;United States
+YourGrocer;;19/12/2022;100%;Food;Unknown;$2;Australia
+Tomorrow;30;16/12/2022;25%;Finance;Unknown;$29;Germany
+Revelate;24;16/12/2022;30%;Data;Series A;$26;Canada
+E Inc.;;16/12/2022;;Transportation;Post-IPO;;Canada
+Autograph;;16/12/2022;;Crypto;Series B;$205;United States
+FreshBooks;;16/12/2022;;Finance;Unknown;$331;Canada
+Improbable;;16/12/2022;10%;Other;Unknown;$704;United Kingdom
+Modern Treasury;;16/12/2022;18%;Finance;Series C;$183;United States
+Reach;;16/12/2022;12%;Retail;Series A;$30;Canada
+SonderMind;;16/12/2022;15%;Healthcare;Series C;$183;United States
+BigCommerce;180;15/12/2022;13%;Retail;Post-IPO;$224;United States
+Freshworks;90;15/12/2022;2%;Support;Post-IPO;$484;United States
+LeafLink;80;15/12/2022;31%;Other;Series C;$379;United States
+Workmotion;60;15/12/2022;20%;HR;Series B;$76;United States
+Apollo;;15/12/2022;15%;Product;Series D;$183;United States
+JD.ID;200;14/12/2022;30%;Retail;Post-IPO;$5,100;Indonesia
+GoStudent;100;14/12/2022;;Education;Series D;$686;Austria
+Quanergy Systems;72;14/12/2022;;Transportation;Post-IPO;$175;United States
+Headspace;50;14/12/2022;4%;Healthcare;Unknown;$215;United States
+ChowNow;40;14/12/2022;10%;Food;Series C;$64;United States
+Landing;;14/12/2022;;Real Estate;Series C;$347;United States
+Thumbtack;160;13/12/2022;14%;Consumer;Series I;$698;United States
+Edgio;95;13/12/2022;10%;Infrastructure;Post-IPO;$462;United States
+Komodo Health;78;13/12/2022;9%;Healthcare;Series E;$514;United States
+Viant;46;13/12/2022;13%;Marketing;Post-IPO;;United States
+TaxBit;;13/12/2022;;Crypto;Series B;$235;United States
+Pluralsight;400;12/12/2022;20%;Education;Acquired;$192;United States
+Freshly;329;12/12/2022;;Food;Acquired;$107;United States
+Balto;35;12/12/2022;;Sales;Series B;$51;United States
+Caribou;;12/12/2022;;Finance;Series C;$189;United States
+Outschool;43;10/12/2022;25%;Education;Series D;$240;United States
+Xentral;20;10/12/2022;10%;Product;Series B;$94;Germany
+Autobooks;;10/12/2022;;Finance;Series C;$97;United States
+Convene;;10/12/2022;;Real Estate;Unknown;$281;United States
+PharmEasy;;10/12/2022;;Healthcare;Unknown;$1,600;India
+Playtika;600;9/12/2022;15%;Consumer;Post-IPO;;Israel
+Share Now;150;9/12/2022;36%;Transportation;Acquired;;Germany
+Alice;113;9/12/2022;16%;Healthcare;Series C;$174;Brazil
+Primer;85;9/12/2022;33%;Finance;Series B;$73;United Kingdom
+OneFootball;62;9/12/2022;12%;Marketing;Series D;$442;Germany
+C2FO;20;9/12/2022;2%;Finance;Series H;$537;United States
+Brodmann17;;9/12/2022;100%;Other;Series A;$25;Israel
+Digital Surge;;9/12/2022;100%;Crypto;Unknown;;Australia
+N-able Technologies;;9/12/2022;;Other;Post-IPO;$225;United States
+ZenLedger;;9/12/2022;10%;Crypto;Series B;$25;United States
+Airtable;254;8/12/2022;20%;Product;Series F;$1,400;United States
+Swiggy;250;8/12/2022;3%;Food;Unknown;$3,600;India
+Glints;198;8/12/2022;18%;HR;Series D;$82;Singapore
+Buser;160;8/12/2022;30%;Transportation;Series C;$138;Brazil
+BlackLine;95;8/12/2022;5%;Finance;Private Equity;$220;United States
+Chrono24;80;8/12/2022;;Retail;Series C;$205;Germany
+Otonomo;80;8/12/2022;50%;Transportation;Post-IPO;$231;Israel
+TechTarget;60;8/12/2022;5%;Marketing;Post-IPO;$115;United States
+Inscripta;43;8/12/2022;;Healthcare;Series E;$459;United States
+CyCognito;30;8/12/2022;15%;Security;Series C;$153;United States
+Armis;25;8/12/2022;4%;Security;Private Equity;$537;United States
+Bakkt;;8/12/2022;15%;Crypto;Post-IPO;$932;United States
+Blue Apron;;8/12/2022;10%;Food;Post-IPO;$352;United States
+FireHydrant;;8/12/2022;;Infrastructure;Series B;$32;United States
+Lenovo;;8/12/2022;;Hardware;Post-IPO;$850;United States
+Nerdy;;8/12/2022;17%;Education;Post-IPO;$150;United States
+Vanta;;8/12/2022;14%;Security;Series B;$203;United States
+Vedantu;385;7/12/2022;;Education;Series E;$292;India
+Loft;312;7/12/2022;12%;Real Estate;Unknown;$788;Brazil
+Plaid;260;7/12/2022;20%;Finance;Series D;$734;United States
+Motive;237;7/12/2022;6%;Transportation;Series F;$567;United States
+Recur Forever;235;7/12/2022;;Crypto;Series A;$55;United States
+Relativity;150;7/12/2022;10%;Legal;Private Equity;$125;United States
+Voi;130;7/12/2022;13%;Transportation;Series D;$515;United States
+Integral Ad Science;120;7/12/2022;13%;Marketing;Acquired;$116;United States
+Houzz;95;7/12/2022;8%;Consumer;Series E;$613;United States
+Grover;40;7/12/2022;10%;Retail;Unknown;$2,300;United States
+Lev;30;7/12/2022;30%;Real Estate;Series B;$114;United States
+Lithic;27;7/12/2022;18%;Finance;Series C;$115;United States
+CircleCI;;7/12/2022;17%;Product;Series F;$315;United States
+Detectify;;7/12/2022;;Security;Unknown;$42;Sweden
+Sayurbox;;7/12/2022;5%;Food;Series C;$139;Indonesia
+Zywave;;7/12/2022;;Finance;Acquired;;United States
+Doma;515;6/12/2022;40%;Finance;Post-IPO;$679;United States
+Intel;201;6/12/2022;;Hardware;Post-IPO;$12;United States
+BuzzFeed;180;6/12/2022;12%;Media;Post-IPO;$696;United States
+Weedmaps;175;6/12/2022;25%;Other;Acquired;;United States
+Adobe;100;6/12/2022;;Marketing;Post-IPO;$2;United States
+Chipper Cash;50;6/12/2022;13%;Finance;Series C;$302;United States
+Stash;32;6/12/2022;8%;Finance;Unknown;$480;United States
+Perimeter 81;20;6/12/2022;8%;Security;Series C;$165;Israel
+Koinly;16;6/12/2022;14%;Crypto;Unknown;;United Kingdom
+Bridgit;13;6/12/2022;13%;Construction;Series B;$36;Canada
+Filevine;;6/12/2022;;Legal;Series D;$226;United States
+Moove;;6/12/2022;;Transportation;Unknown;$630;Nigeria
+Nextiva;;6/12/2022;17%;Other;Private Equity;$200;United States
+OneStudyTeam;;6/12/2022;25%;Healthcare;Series D;$479;United States
+Zuora;;6/12/2022;11%;Finance;Post-IPO;$647;United States
+Swyftx;90;5/12/2022;40%;Crypto;Unknown;;Australia
+Aqua Security;65;5/12/2022;10%;Security;Series E;$265;United States
+DataRails;30;5/12/2022;18%;Finance;Series B;$103;Israel
+Elemy;;5/12/2022;;Healthcare;Series B;$323;United States
+Route;;5/12/2022;;Retail;Unknown;$481;United States
+Thinkific;;5/12/2022;;Education;Post-IPO;$22;Canada
+OYO;600;3/12/2022;;Travel;Series F;$4,000;India
+HealthifyMe;150;3/12/2022;;Fitness;Series C;$100;India
+Bybit;;3/12/2022;30%;Crypto;Unknown;;Singapore
+Cognyte;100;2/12/2022;5%;Security;Unknown;;Israel
+ShareChat;100;2/12/2022;;Consumer;Unknown;$1,700;India
+Polly;47;2/12/2022;15%;Finance;Series C;$184;United States
+Homebound;;2/12/2022;;Real Estate;Unknown;$128;United States
+Lora DiCarlo;;2/12/2022;100%;Consumer;Unknown;$9;United States
+Carousell;110;1/12/2022;10%;Retail;Private Equity;$372;Singapore
+Bizzabo;100;1/12/2022;37%;Marketing;Series E;$194;United States
+BloomTech;88;1/12/2022;50%;Education;Unknown;;United States
+Netlify;48;1/12/2022;16%;Product;Series D;$212;United States
+Springbig;37;1/12/2022;23%;Sales;Post-IPO;$32;United States
+Podium;;1/12/2022;12%;Support;Series D;$419;United States
+SQZ Biotech;;1/12/2022;60%;Healthcare;Post-IPO;$229;United States
+Strava;;1/12/2022;14%;Fitness;Series F;$151;United States
+Synlogic;;1/12/2022;25%;Healthcare;Post-IPO;$321;United States
+Yapily;;1/12/2022;;Finance;Series A;$69;United Kingdom
+DoorDash;1250;30/11/2022;6%;Food;Post-IPO;$2,500;United States
+Kraken;1100;30/11/2022;30%;Crypto;Unknown;$134;United States
+Happy Money;158;30/11/2022;34%;Finance;Series D;$191;United States
+Ula;134;30/11/2022;23%;Retail;Series B;$140;Indonesia
+Wonder;130;30/11/2022;7%;Food;Series B;$850;United States
+StudySmarter;70;30/11/2022;;Education;Series A;$64;Germany
+Grin;60;30/11/2022;13%;Marketing;Series B;$145;United States
+Ualá;53;30/11/2022;3%;Finance;Series D;$544;Argentina
+Teachmint;45;30/11/2022;5%;Education;Series B;$118;India
+Etermax;40;30/11/2022;;Other;Unknown;;Argentina
+Thread;30;30/11/2022;50%;Retail;Acquired;$40;United Kingdom
+Nexar;25;30/11/2022;;Transportation;Series D;$149;United States
+Elastic;;30/11/2022;13%;Data;Post-IPO;$162;United States
+Motional;;30/11/2022;;Transportation;Unknown;;United States
+Pinterest;;30/11/2022;;Consumer;Post-IPO;$1,500;United States
+Sana;;30/11/2022;15%;Healthcare;Series A;$700;United States
+Venafi;;30/11/2022;;Security;Acquired;$167;United States
+Bitso;100;29/11/2022;;Crypto;Series C;$378;Mexico
+Lyst;50;29/11/2022;25%;Retail;Unknown;$144;United Kingdom
+CoinJar;10;29/11/2022;20%;Crypto;Unknown;$1;Australia
+Bitfront;;29/11/2022;100%;Crypto;Unknown;;United States
+Codexis;;29/11/2022;18%;Healthcare;Post-IPO;$162;United States
+Firework;;29/11/2022;10%;Retail;Series B;$269;United States
+Lazerpay;;29/11/2022;;Crypto;Unknown;;Nigeria
+MessageBird;;29/11/2022;31%;Other;Series C;$1,100;Netherlands
+Plerk;;29/11/2022;40%;Finance;Series A;$13;Mexico
+Proton.ai;;29/11/2022;;Sales;Series A;$20;United States
+Infarm;500;28/11/2022;50%;Other;Series D;$604;Germany
+Wildlife Studios;300;28/11/2022;20%;Consumer;Unknown;$260;Brazil
+Hirect;200;28/11/2022;40%;Recruiting;Series A;;India
+ApplyBoard;90;28/11/2022;6%;Education;Series D;$483;Canada
+Ajaib;67;28/11/2022;8%;Finance;Unknown;$245;Indonesia
+Candy Digital;33;28/11/2022;33%;Crypto;Series A;$100;United States
+ResearchGate;25;28/11/2022;10%;Other;Series D;$87;Germany
+BlockFi;;28/11/2022;100%;Crypto;Series E;$1,000;United States
+FutureLearn;;28/11/2022;;Education;Unknown;$50;United Kingdom
+Inspectify;;28/11/2022;;Real Estate;Series A;$11;United States
+Ledn;;28/11/2022;;Crypto;Series B;$103;Canada
+NCX;;28/11/2022;40%;Energy;Series B;$78;United States
+Spora Health;;28/11/2022;100%;Healthcare;Seed;$4;United States
+Change Invest;;27/11/2022;24%;Finance;Unknown;$22;Netherlands
+Zilch;;26/11/2022;;Finance;Unknown;$389;United Kingdom
+VerSe Innovation;150;25/11/2022;5%;Media;Series J;$1,700;India
+Carwow;70;25/11/2022;20%;Transportation;Unknown;$157;United Kingdom
+Vendease;27;25/11/2022;9%;Food;Series A;$43;Nigeria
+Lemon;100;24/11/2022;38%;Crypto;Series A;$17;Argentina
+Quidax;20;24/11/2022;20%;Crypto;Unknown;$3;Nigeria
+Menulog;;24/11/2022;;Food;Acquired;;Australia
+Utopia Music;;24/11/2022;;Media;Series B;;Switzerland
+Assure;;23/11/2022;100%;Finance;Seed;$2;United States
+GoodGood;;23/11/2022;100%;Retail;Seed;$6;Canada
+Muni Tienda;;23/11/2022;100%;Other;Series A;$20;Colombia
+SWVL;;23/11/2022;50%;Transportation;Post-IPO;$264;Egypt
+Western Digital;251;22/11/2022;;Hardware;Post-IPO;$900;United States
+SIRCLO;160;22/11/2022;8%;Retail;Series B;$92;Indonesia
+Movidesk;118;22/11/2022;;Support;Acquired;$11;Brazil
+Trax;80;22/11/2022;8%;Retail;Series E;$1,000;Singapore
+Flash Coffee;;22/11/2022;;Food;Series B;$57;Singapore
+Natera;;22/11/2022;;Healthcare;Post-IPO;$809;United States
+Rapyd;;22/11/2022;;Finance;Unknown;$770;Israel
+Reynen Court;;22/11/2022;;Legal;Unknown;$23;Netherlands
+Jumia;900;21/11/2022;20%;Retail;Post-IPO;$1,200;Nigeria
+Kitopi;93;21/11/2022;10%;Food;Series C;$804;United States
+Devo;;21/11/2022;15%;Security;Series F;$481;United States
+GloriFi;;21/11/2022;100%;Finance;Unknown;;United States
+Zomato;100;19/11/2022;4%;Food;Series J;$914;India
+Carvana;1500;18/11/2022;8%;Transportation;Post-IPO;$1,600;United States
+Nuro;300;18/11/2022;20%;Transportation;Series D;$2,100;United States
+Synthego;105;18/11/2022;20%;Healthcare;Series E;$459;United States
+Splyt;57;18/11/2022;;Transportation;Series B;$34;United Kingdom
+Capitolis;;18/11/2022;25%;Finance;Series D;$281;United States
+Kavak;;18/11/2022;;Transportation;Series E;$1,600;Brazil
+Metaplex;;18/11/2022;;Crypto;Unknown;;United States
+Ruangguru;;18/11/2022;;Education;Unknown;$205;Indonesia
+StoryBlocks;;18/11/2022;25%;Media;Acquired;$18;United States
+Unchained Capital;;18/11/2022;15%;Crypto;Series A;$33;United States
+Roku;200;17/11/2022;7%;Media;Post-IPO;$208;United States
+Orchard;180;17/11/2022;;Real Estate;Series D;$472;United States
+Homepoint;113;17/11/2022;;Real Estate;Post-IPO;;United States
+Juni;72;17/11/2022;33%;Finance;Unknown;$281;Sweden
+Chili Piper;58;17/11/2022;;Sales;Series B;$54;United States
+Capitolis;37;17/11/2022;25%;Finance;Series D;$281;United States
+TealBook;34;17/11/2022;19%;Other;Series B;$73;Canada
+Koho;15;17/11/2022;4%;Finance;Series D;$278;Canada
+&Open;9;17/11/2022;9%;Marketing;Series A;$35;Ireland
+Kandji;;17/11/2022;17%;Other;Series C;$188;United States
+Morning Brew;;17/11/2022;14%;Media;Acquired;;United States
+Symend;;17/11/2022;13%;Other;Series C;$148;Canada
+Amazon;10000;16/11/2022;3%;Retail;Post-IPO;$108;United States
+Cisco;4100;16/11/2022;5%;Infrastructure;Post-IPO;$2;United States
+Twiga;211;16/11/2022;21%;Food;Series C;$157;Kenya
+Wayflyer;200;16/11/2022;40%;Marketing;Unknown;$889;Ireland
+Similarweb;120;16/11/2022;10%;Other;Post-IPO;$235;United States
+Salsify;90;16/11/2022;11%;Retail;Series F;$452;United States
+Lokalise;76;16/11/2022;23%;Other;Series B;$56;United States
+Yotpo;70;16/11/2022;9%;Marketing;Unknown;$436;United States
+Pear Therapeutics;59;16/11/2022;22%;Healthcare;Post-IPO;$409;United States
+D2L;;16/11/2022;5%;Education;Post-IPO;$168;Canada
+Dance;;16/11/2022;16%;Transportation;Unknown;$63;Germany
+Homeward;;16/11/2022;25%;Real Estate;Unknown;$501;United States
+Hopin;;16/11/2022;17%;Other;Series D;$1,000;United Kingdom
+Infogrid;;16/11/2022;;Other;Series A;$15;United Kingdom
+Kite;;16/11/2022;100%;Product;Series A;$21;United States
+UiPath;241;15/11/2022;6%;Data;Post-IPO;$2,000;United States
+Asana;180;15/11/2022;9%;Other;Post-IPO;$453;United States
+OwnBackup;170;15/11/2022;17%;Security;Series E;$507;United States
+Deliveroo Australia;120;15/11/2022;100%;Food;Post-IPO;$1,700;Australia
+Productboard;100;15/11/2022;20%;Product;Series D;;United States
+Properly;71;15/11/2022;;Real Estate;Series B;$154;Canada
+Protocol;60;15/11/2022;100%;Media;Acquired;;United States
+Jimdo;50;15/11/2022;16%;Other;Unknown;$28;Germany
+The Zebra;50;15/11/2022;;Finance;Series D;$256;United States
+Viber;45;15/11/2022;8%;Consumer;Acquired;;Luxembourg
+CaptivateIQ;31;15/11/2022;10%;Sales;Series C;$164;United States
+Apollo Insurance;;15/11/2022;25%;Finance;Series B;$11;Canada
+Nirvana Money;;15/11/2022;100%;Finance;Unknown;;United States
+Oatly;;15/11/2022;;Food;Post-IPO;$441;Sweden
+OfferUp;;15/11/2022;19%;Retail;Unknown;$381;United States
+Outside;;15/11/2022;12%;Media;Series B;$174;United States
+Rubicon Technologies;;15/11/2022;11%;Other;Post-IPO;$382;United States
+Tencent;;15/11/2022;;Consumer;Post-IPO;$12,600;China
+Typeform;;15/11/2022;;Marketing;Series C;$187;Spain
+Whispir;;15/11/2022;30%;Other;Post-IPO;$68;Australia
+Illumina;500;14/11/2022;5%;Healthcare;Post-IPO;$28;United States
+Sema4;500;14/11/2022;;Healthcare;Post-IPO;$791;United States
+iFit;300;14/11/2022;20%;Fitness;Private Equity;$200;United States
+Ribbon;170;14/11/2022;85%;Real Estate;Series C;$405;United States
+Pipedrive;143;14/11/2022;15%;Sales;Private Equity;$90;Estonia
+Intercom;124;14/11/2022;13%;Support;Series D;$240;United States
+Science 37;90;14/11/2022;;Healthcare;Post-IPO;$347;United States
+Pear Therapeutics;59;14/11/2022;22%;Healthcare;Post-IPO;$409;United States
+Cardlytics;51;14/11/2022;;Marketing;Post-IPO;$212;United States
+Cloudinary;40;14/11/2022;8%;Media;Unknown;$100;United States
+Nestcoin;30;14/11/2022;;Crypto;Seed;$6;Nigeria
+Gokada;20;14/11/2022;;Transportation;Unknown;$12;Nigeria
+Shopee;;14/11/2022;;Food;Unknown;;Indonesia
+Tricida;;14/11/2022;57%;Healthcare;Post-IPO;$624;United States
+Veev;100;11/11/2022;30%;Real Estate;Series D;$597;United States
+Forto;60;11/11/2022;8%;Logistics;Series D;$593;United States
+Chipax;;11/11/2022;;Finance;Seed;$2;Chile
+Juniper;;11/11/2022;;Marketing;Acquired;;United States
+Offerpad;;11/11/2022;7%;Real Estate;Post-IPO;$355;United States
+GoTo Group;1300;10/11/2022;12%;Transportation;Post-IPO;$1,300;Indonesia
+Juul;400;10/11/2022;30%;Consumer;Unknown;$1,500;United States
+Blend;100;10/11/2022;6%;Finance;Post-IPO;$665;United States
+InfluxData;65;10/11/2022;27%;Data;Series D;$119;United States
+Coinbase;60;10/11/2022;;Crypto;Post-IPO;$549;United States
+SoundHound;45;10/11/2022;10%;Other;Post-IPO;$326;United States
+Wistia;40;10/11/2022;;Marketing;Unknown;$18;United States
+Ocavu;20;10/11/2022;48%;Crypto;Series A;$11;United States
+Avast;;10/11/2022;25%;Security;Unknown;;United States
+Reforge;;10/11/2022;;Education;Series B;$81;United States
+SendCloud;;10/11/2022;10%;Logistics;Series C;$200;United States
+Voly;;10/11/2022;;Food;Seed;$13;Australia
+Wavely;;10/11/2022;100%;HR;Unknown;;United States
+ZenBusiness;;10/11/2022;;Other;Series C;$277;United States
+Meta;11000;9/11/2022;13%;Consumer;Post-IPO;$26,000;United States
+Redfin;862;9/11/2022;13%;Real Estate;Post-IPO;$320;United States
+Flyhomes;300;9/11/2022;40%;Real Estate;Series C;$310;United States
+AvantStay;144;9/11/2022;22%;Travel;Private Equity;$686;United States
+Root Insurance;137;9/11/2022;20%;Finance;Post-IPO;$527;United States
+Liftoff;130;9/11/2022;15%;Marketing;Acquired;$6;United States
+Cameo;80;9/11/2022;;Consumer;Unknown;$165;United States
+Plum;36;9/11/2022;10%;Healthcare;Series A;$20;India
+Kabam;35;9/11/2022;7%;Consumer;Acquired;$244;United States
+HighRadius;25;9/11/2022;;Finance;Series C;$475;India
+Namogoo;25;9/11/2022;15%;Marketing;Series C;$69;United States
+Amobee;;9/11/2022;;Marketing;Acquired;$72;United States
+CloudFactory;;9/11/2022;12%;Data;Private Equity;$78;Kenya
+Coursera;;9/11/2022;;Education;Post-IPO;$458;United States
+Faze Medicines;;9/11/2022;100%;Healthcare;Series B;$81;United States
+RingCentral;;9/11/2022;10%;Other;Post-IPO;$44;United States
+Spotify;;9/11/2022;;Media;Post-IPO;$2,100;Sweden
+EverBridge;200;8/11/2022;;Other;Post-IPO;$476;United States
+Repertoire Immune Medicines;65;8/11/2022;50%;Healthcare;Series B;$257;United States
+Astra;;8/11/2022;16%;Aerospace;Post-IPO;$300;United States
+Beat;;8/11/2022;;Transportation;Series B;$6;Greece
+NanoString;;8/11/2022;10%;Healthcare;Post-IPO;$731;United States
+SADA;;8/11/2022;11%;Other;Acquired;;United States
+Salesforce;1000;7/11/2022;1%;Sales;Post-IPO;$65;United States
+Unacademy;350;7/11/2022;10%;Education;Series H;$838;India
+Zendesk;350;7/11/2022;5%;Support;Acquired;$85;United States
+Dock;190;7/11/2022;12%;Finance;Private Equity;$280;Brazil
+Code42;;7/11/2022;15%;Security;Unknown;$137;United States
+Domino Data Lab;;7/11/2022;25%;Data;Series F;$223;United States
+Varonis;110;6/11/2022;5%;Security;Post-IPO;$30;United States
+Brainly;25;6/11/2022;;Education;Series D;$148;Poland
+Practically;;6/11/2022;;Education;Unknown;$14;India
+Twitter;3700;4/11/2022;50%;Consumer;Post-IPO;$12,900;United States
+Udaan;350;4/11/2022;;Retail;Unknown;$1,500;India
+Planetly;200;4/11/2022;100%;Other;Acquired;$5;Germany
+KoinWorks;70;4/11/2022;8%;Finance;Unknown;$180;Indonesia
+Exodus;59;4/11/2022;22%;Crypto;Unknown;$60;United States
+Benitago Group;;4/11/2022;14%;Retail;Series A;$380;United States
+Mythical Games;;4/11/2022;10%;Crypto;Series C;$260;United States
+Stripe;1000;3/11/2022;14%;Finance;Series H;$2,300;United States
+Lyft;700;3/11/2022;13%;Transportation;Post-IPO;$4,900;United States
+LendingTree;200;3/11/2022;;Finance;Post-IPO;;United States
+Pleo;150;3/11/2022;15%;Finance;Series C;$428;United States
+Delivery Hero;100;3/11/2022;;Food;Post-IPO;$8,300;Germany
+Shippo;60;3/11/2022;20%;Logistics;Series E;$154;United States
+Affirm;;3/11/2022;1%;Finance;Post-IPO;$1,500;United States
+CloudKitchens;;3/11/2022;;Real Estate;Unknown;$1,300;United States
+LiveRamp;;3/11/2022;10%;Marketing;Post-IPO;$16;United States
+Provi;;3/11/2022;;Food;Series C;$150;United States
+Rubius;;3/11/2022;82%;Healthcare;Post-IPO;$445;United States
+Snapdocs;;3/11/2022;15%;Real Estate;Series D;$253;United States
+Studio;;3/11/2022;;Education;Series B;$50;United States
+Opendoor;550;2/11/2022;18%;Real Estate;Post-IPO;$1,900;United States
+Chime;156;2/11/2022;12%;Finance;Series G;$2,300;United States
+Chargebee;142;2/11/2022;10%;Finance;Series H;$468;United States
+Dapper Labs;134;2/11/2022;22%;Crypto;Series D;$607;United States
+Checkmarx;100;2/11/2022;10%;Security;Series C;$92;Israel
+Smava;100;2/11/2022;15%;Finance;Unknown;$188;Germany
+Iron Ox;50;2/11/2022;50%;Food;Series C;$103;United States
+Digital Currency Gruop;10;2/11/2022;13%;Crypto;Unknown;;United States
+BitMEX;;2/11/2022;30%;Crypto;Seed;$0;Seychelles
+Signicat;;2/11/2022;;Security;Acquired;$8;Norway
+Argo AI;259;1/11/2022;;Transportation;Unknown;$3,600;United States
+Booking.com;226;1/11/2022;;Travel;Acquired;;United States
+Oracle;200;1/11/2022;;Other;Post-IPO;;United States
+Upstart;140;1/11/2022;7%;Finance;Post-IPO;$144;United States
+Gem;100;1/11/2022;33%;Recruiting;Series C;$148;United States
+Oda;70;1/11/2022;18%;Food;Unknown;$377;Sweden
+Oda;70;1/11/2022;18%;Food;Unknown;$477;Norway
+Oda;70;1/11/2022;6%;Food;Unknown;$479;Norway
+Hootsuite;50;1/11/2022;5%;Marketing;Series C;$300;Canada
+Drop;24;1/11/2022;;Marketing;Series B;$56;Canada
+Tapps Games;10;1/11/2022;;Consumer;Unknown;;Brazil
+Brightline;;1/11/2022;20%;Healthcare;Series C;$212;United States
+Help Scout;;1/11/2022;;Support;Series B;$28;United States
+Kry;300;31/10/2022;10%;Healthcare;Series D;$568;Sweden
+Notarize;60;31/10/2022;;Legal;Series D;$213;United States
+EquityZen;30;31/10/2022;27%;Finance;Series B;$11;United States
+Equitybee;25;31/10/2022;20%;Finance;Series B;$85;United States
+Dukaan;23;31/10/2022;;Retail;Series A;$17;India
+Doubtnut;;31/10/2022;30%;Education;Series B;$49;India
+Amazon;150;28/10/2022;;Retail;Post-IPO;$108;United States
+Fifth Season;100;28/10/2022;100%;Food;Series B;$35;United States
+Advata;32;28/10/2022;21%;Healthcare;;;United States
+Springlane;;28/10/2022;35%;Food;Series C;$11;Germany
+RenoRun;210;27/10/2022;43%;Construction;Series B;$163;Canada
+Recharge;84;27/10/2022;17%;Finance;Series B;$277;United States
+Lattice;13;27/10/2022;;HR;Series F;$328;United States
+GoNuts;;27/10/2022;100%;Media;Seed;;India
+Spreetail;;27/10/2022;;Retail;;;United States
+Seagate;3000;26/10/2022;8%;Hardware;Post-IPO;;United States
+MindBody;400;26/10/2022;15%;Fitness;Post-IPO;$114;United States
+Zillow;300;26/10/2022;5%;Real Estate;Post-IPO;$97;United States
+Cybereason;200;26/10/2022;17%;Security;Series F;$750;United States
+Argo AI;173;26/10/2022;;Transportation;Unknown;$3,600;United States
+GoFundMe;94;26/10/2022;12%;Finance;Series A;;United States
+Carbon;;26/10/2022;;Hardware;Series E;$683;United States
+Fundbox;150;25/10/2022;42%;Finance;Series D;$553;United States
+Embroker;30;25/10/2022;12%;Finance;Series C;$142;United States
+Vee;17;25/10/2022;50%;HR;Seed;$15;Israel
+Callisto Media;;25/10/2022;35%;Media;Series D;;United States
+Convoy;;25/10/2022;;Logistics;Series E;$1,100;United States
+Philips;4000;24/10/2022;5%;Healthcare;Post-IPO;;Netherlands
+Cerebral;400;24/10/2022;20%;Healthcare;Series C;$462;United States
+Snyk;198;24/10/2022;14%;Security;Series F;$849;United States
+McMakler;100;24/10/2022;;Real Estate;Unknown;$214;Germany
+Unico;50;24/10/2022;4%;Other;Series D;$336;Brazil
+OrCam;62;23/10/2022;16%;Healthcare;Unknown;$86;Israel
+Antidote Health;23;23/10/2022;38%;Healthcare;Unknown;$36;Israel
+Khoros;120;21/10/2022;10%;Sales;Private Equity;$138;United States
+F5;100;21/10/2022;1%;Security;Post-IPO;;United States
+Elinvar;43;21/10/2022;33%;Finance;Unknown;$30;Germany
+Synapsica;30;21/10/2022;30%;Healthcare;Series A;$4;India
+Volta;;21/10/2022;54%;Transportation;Post-IPO;$575;United States
+Hotmart;227;20/10/2022;12%;Marketing;Series C;$127;Brazil
+Zeus Living;64;20/10/2022;46%;Real Estate;Series C;$151;United States
+Loom;23;20/10/2022;11%;Product;Series C;$203;United States
+Sales Boomerang;20;20/10/2022;;Sales;Private Equity;$5;United States
+Arrival;;20/10/2022;;Transportation;Post-IPO;$629;United Kingdom
+Roofstock;;20/10/2022;20%;Real Estate;Series E;$365;United States
+Starry;;20/10/2022;50%;Other;Post-IPO;$260;United States
+Gopuff;250;19/10/2022;;Food;Series H;$3,400;United States
+AtoB;32;19/10/2022;30%;Finance;Series B;$177;United States
+InfoSum;20;19/10/2022;12%;Security;Series B;$88;United Kingdom
+Clever Real Estate;;19/10/2022;;Real Estate;Series B;$13;United States
+Collibra;;19/10/2022;;Data;Series G;$596;Belgium
+Side;;19/10/2022;;Real Estate;Unknown;$313;United States
+Faire;84;18/10/2022;7%;Retail;Series G;$1,700;United States
+Leafly;56;18/10/2022;21%;Retail;Post-IPO;$71;United States
+Ada Health;50;17/10/2022;;Healthcare;Series B;$189;Germany
+Tiendanube;50;17/10/2022;5%;Marketing;Unknown;;Argentina
+Microsoft;;17/10/2022;;Other;Post-IPO;$1;United States
+Nuri;;17/10/2022;100%;Crypto;Series B;$42;Germany
+Flipboard;24;16/10/2022;21%;Media;Unknown;$235;United States
+Huawei;;16/10/2022;;Hardware;Unknown;;China
+Clear Capital;378;14/10/2022;27%;Real Estate;Unknown;;United States
+Beyond Meat;200;14/10/2022;19%;Food;Post-IPO;$122;United States
+Beyond Meat;200;14/10/2022;19%;Food;Post-IPO;$122;United States
+Flux Systems;;14/10/2022;100%;Finance;Unknown;$9;United Kingdom
+Qin1;;14/10/2022;100%;Education;Seed;;India
+Salesforce;90;13/10/2022;;Sales;Post-IPO;$65;United States
+Playdots;65;13/10/2022;100%;Consumer;Acquired;$10;United States
+ExtraHop;;13/10/2022;;Security;Series C;$61;United States
+Byju's;2500;12/10/2022;5%;Education;Private Equity;$5,500;India
+6sense;150;12/10/2022;10%;Sales;Series E;$426;United States
+Sinch;150;12/10/2022;;Other;Post-IPO;$1,500;Sweden
+FrontRow;130;12/10/2022;75%;Education;Series A;$17;India
+Noom;500;11/10/2022;10%;Healthcare;Series F;$657;United States
+MX;200;11/10/2022;;Finance;Series C;$450;United States
+Brex;136;11/10/2022;11%;Finance;Series D;$1,500;United States
+Pacaso;100;11/10/2022;30%;Real Estate;Series C;$217;United States
+Sketch;80;11/10/2022;;Other;Series A;$20;Netherlands
+Udacity;55;11/10/2022;13%;Education;Unknown;$235;United States
+Linkfire;35;11/10/2022;35%;Marketing;Seed;$2;Denmark
+Emitwise;;11/10/2022;;Energy;Series A;$16;United Kingdom
+GSR;;11/10/2022;;Crypto;Unknown;;Hong Kong
+VanHack;;11/10/2022;;HR;Seed;;United States
+HelloFresh;611;10/10/2022;;Food;Post-IPO;$367;United States
+Momentive;180;10/10/2022;11%;Marketing;Post-IPO;$1,100;United States
+Pavilion Data;96;10/10/2022;96%;Infrastructure;Series D;$103;United States
+Redesign Health;67;10/10/2022;20%;Healthcare;Series C;$315;United States
+Nyriad;;10/10/2022;33%;Infrastructure;Unknown;$58;United States
+Collage.com;;9/10/2022;100%;Retail;Acquired;;United States
+BioMarin;120;7/10/2022;4%;Healthcare;Post-IPO;$585;United States
+Rev.com;85;7/10/2022;;Data;Series D;$30;United States
+Crypto.com;2000;6/10/2022;30%;Crypto;Unknown;$156;Singapore
+Peloton;500;6/10/2022;12%;Fitness;Post-IPO;$1,900;United States
+Landing;110;6/10/2022;;Real Estate;Series C;$347;United States
+Turnitin;51;6/10/2022;5%;Education;Acquired;;United States
+Impossible Foods;50;6/10/2022;6%;Food;Series H;$1,900;United States
+Atome;;6/10/2022;;Finance;Unknown;$645;Singapore
+First AML;;6/10/2022;;Finance;Series B;$29;New Zealand
+Foresight Insurance;;6/10/2022;40%;Finance;Series B;$58;United States
+Spotify;;6/10/2022;;Media;Post-IPO;$2,100;Sweden
+Built In;50;5/10/2022;25%;Recruiting;Series C;$29;United States
+TwinStrand;;5/10/2022;50%;Healthcare;Series B;$73;United States
+8x8;200;4/10/2022;9%;Support;Post-IPO;$253;United States
+Zoomo;65;4/10/2022;16%;Transportation;Series B;$105;Australia
+Homie;40;4/10/2022;13%;Real Estate;Series B;$35;United States
+Fivetran;;4/10/2022;5%;Data;Series D;;United States
+Xendit;;4/10/2022;5%;Finance;Series D;$534;Indonesia
+ActiveCampaign;;3/10/2022;15%;Marketing;Series C;$360;United States
+Tempo;;3/10/2022;;Fitness;Series C;$298;United States
+WazirX;60;2/10/2022;40%;Crypto;Acquired;;India
+Spin;78;30/9/2022;10%;Transportation;Acquired;$8;United States
+Carsome;;30/9/2022;10%;Transportation;Series E;$607;Malaysia
+Pastel;;30/9/2022;100%;Food;Unknown;;United States
+Truepill;;30/9/2022;;Healthcare;Series D;$255;United States
+Westwing;125;29/9/2022;;Retail;Post-IPO;$237;Germany
+Mux;40;29/9/2022;20%;Infrastructure;Series D;$173;United States
+Solarisbank;;29/9/2022;10%;Finance;Unknown;$385;Germany
+Zenjob;;29/9/2022;;HR;Series D;$107;Germany
+DocuSign;671;28/9/2022;9%;Sales;Post-IPO;$536;United States
+Front;;28/9/2022;;Support;Series D;$203;United States
+Volta;;28/9/2022;10%;Transportation;Post-IPO;$575;United States
+Divvy Homes;40;27/9/2022;12%;Real Estate;Series B;$180;United States
+Graphcore;;27/9/2022;;Data;Unknown;$692;United Kingdom
+Instacart;;24/9/2022;;Food;Unknown;$2,900;United States
+Konfio;180;23/9/2022;;Finance;Series E;$706;United States
+Moss;70;23/9/2022;15%;Finance;Series B;$150;Germany
+Foxtrot;26;23/9/2022;4%;Food;Series C;$166;United States
+Truiloo;24;23/9/2022;5%;Security;Series D;$474;Canada
+Pesto;;23/9/2022;100%;Other;Seed;$6;United States
+NYDIG;110;22/9/2022;33%;Crypto;Private Equity;$1,400;United States
+Klarna;100;22/9/2022;;Finance;Unknown;$3,700;Sweden
+Made.com;;22/9/2022;35%;Retail;Series D;$136;United Kingdom
+Kitty Hawk;100;21/9/2022;100%;Aerospace;Unknown;$1;United States
+Candidate Labs;;21/9/2022;;HR;Seed;$5;United States
+Compass;271;20/9/2022;;Real Estate;Post-IPO;$1,600;United States
+Curative;109;20/9/2022;;Healthcare;Seed;$8;United States
+Ada;78;20/9/2022;16%;Support;Series C;$190;Canada
+99;75;20/9/2022;2%;Transportation;Acquired;$244;Brazil
+Ouster;;20/9/2022;10%;Transportation;Post-IPO;$282;United States
+Zappos;;20/9/2022;4%;Retail;Acquired;$62;United States
+Ola;200;19/9/2022;;Transportation;Series J;$5,000;India
+Vesalius Therapeutics;29;19/9/2022;43%;Healthcare;Series B;$75;United States
+VideoAmp;;19/9/2022;2%;Marketing;Series F;$456;United States
+Shopee;;18/9/2022;;Food;Unknown;;Indonesia
+Clear;190;16/9/2022;20%;Finance;Series C;$140;India
+TrueLayer;40;16/9/2022;10%;Finance;Series E;$271;United States
+LivePerson;193;15/9/2022;11%;Support;Post-IPO;$42;United States
+Acast;70;15/9/2022;15%;Media;Post-IPO;$126;Sweden
+WorkRamp;35;15/9/2022;20%;HR;Series C;$67;United States
+DayTwo;;15/9/2022;;Healthcare;Series B;$90;United States
+NextRoll;;15/9/2022;7%;Marketing;Unknown;$108;United States
+Twilio;800;14/9/2022;11%;Other;Post-IPO;$614;United States
+Pitch;59;14/9/2022;30%;Marketing;Series B;$137;Germany
+Infarm;50;14/9/2022;5%;Other;Series D;$604;Germany
+Netflix;30;14/9/2022;;Media;Post-IPO;$121,900;United States
+Bitrise;;14/9/2022;14%;Infrastructure;Series C;$83;Hungary
+Rubius;160;13/9/2022;75%;Healthcare;Post-IPO;$445;United States
+Checkout.com;100;13/9/2022;5%;Finance;Series D;$1,800;United Kingdom
+Taboola;100;13/9/2022;6%;Marketing;Post-IPO;$445;United States
+Patreon;80;13/9/2022;17%;Media;Series F;$413;United States
+FullStory;;13/9/2022;12%;Marketing;Unknown;$197;United States
+Propzy;;13/9/2022;100%;Real Estate;Series A;$33;Vietnam
+Quicko;60;12/9/2022;;Transportation;Acquired;$28;Brazil
+Mode Analytics;25;12/9/2022;;Data;Series D;$81;United States
+Compete;11;12/9/2022;28%;HR;Series A;$17;Israel
+Karbon;;12/9/2022;23%;Other;Series B;$91;United States
+Rent the Runway;;12/9/2022;24%;Retail;Post-IPO;$526;United States
+Sama;;12/9/2022;;Data;Series B;$84;United States
+SkipTheDishes;350;9/9/2022;;Food;Acquired;$6;Canada
+Brighte;58;9/9/2022;;Energy;Series C;$145;Australia
+Patreon;5;9/9/2022;;Media;Series F;$413;United States
+Amber Group;;9/9/2022;10%;Crypto;Series B;$328;Hong Kong
+Capiter;;9/9/2022;;Finance;Series A;$33;Egypt
+CommonBond;;9/9/2022;100%;Finance;Series D;$125;United States
+DreamBox Learning;;9/9/2022;;Education;Acquired;$175;United States
+Flowhub;;9/9/2022;15%;Retail;Unknown;$45;United States
+Lido Learning;;9/9/2022;100%;Education;Series C;$20;India
+GoStudent;200;8/9/2022;;Education;Series D;$686;Austria
+Pomelo Fashion;55;8/9/2022;8%;Retail;Unknown;$120;Thailand
+Genome Medical;23;8/9/2022;;Healthcare;Series C;$120;United States
+BigBear.ai;;8/9/2022;7%;Data;Post-IPO;$200;United States
+Realtor.com;;8/9/2022;;Real Estate;Acquired;;United States
+Simple Feast;150;7/9/2022;100%;Food;Unknown;$173;Denmark
+Foodpanda;60;7/9/2022;;Food;Acquired;$749;Singapore
+Uber;60;7/9/2022;;Transportation;Post-IPO;$24,700;Lithuania
+Rupeek;50;7/9/2022;;Finance;Unknown;$172;India
+Intercom;49;7/9/2022;5%;Support;Series D;$240;United States
+Pendo;45;7/9/2022;5%;Product;Series F;$469;United States
+Demandbase;27;7/9/2022;3%;Sales;Series H;$143;United States
+Firebolt;;7/9/2022;;Data;Series C;$264;Israel
+Medly;;7/9/2022;50%;Healthcare;Series C;$100;United States
+Xsight Labs;;7/9/2022;;Other;Series D;$100;Israel
+Brave Care;40;6/9/2022;33%;Healthcare;Series B;$42;United States
+Lawgeex;30;6/9/2022;33%;Legal;Series C;$41;Israel
+Juniper Square;;6/9/2022;14%;Real Estate;Series C;$108;United States
+Medium;;6/9/2022;25%;Media;Unknown;$163;United States
+Kuda;23;2/9/2022;5%;Finance;Series B;$91;Nigeria
+Alerzo;;2/9/2022;;Retail;Series B;$16;Nigeria
+Sea;;2/9/2022;;Consumer;Post-IPO;$8,600;Singapore
+2TM;100;1/9/2022;15%;Crypto;Unknown;$250;Brazil
+Innovaccer;90;1/9/2022;8%;Healthcare;Series E;$379;United States
+Shopify;70;1/9/2022;;Retail;Post-IPO;$122;Canada
+Urban Sports Club;55;1/9/2022;15%;Fitness;Unknown;$95;Germany
+Hedvig;12;1/9/2022;;Finance;Series B;$67;Sweden
+Snap;1280;31/8/2022;20%;Consumer;Post-IPO;$4,900;United States
+GoodRx;140;31/8/2022;16%;Healthcare;Post-IPO;$910;United States
+Smava;100;31/8/2022;10%;Finance;Unknown;$188;Germany
+Hippo Insurance;70;31/8/2022;10%;Finance;Post-IPO;$1,300;United States
+Clari;45;31/8/2022;;Sales;Series F;$496;United States
+Koo;40;31/8/2022;;Consumer;Series B;$44;India
+TCR2;30;31/8/2022;20%;Healthcare;Post-IPO;$173;United States
+Apartment List;29;31/8/2022;10%;Real Estate;Series D;$169;United States
+Artnight;26;31/8/2022;36%;Retail;Unknown;;Germany
+Snagajob;;31/8/2022;;HR;Unknown;$221;United States
+The Wing;;31/8/2022;100%;Real Estate;Series C;$117;United States
+Viamo;;31/8/2022;;Other;Unknown;;Ghana
+Electric;81;30/8/2022;;Other;Series D;$212;United States
+Immersive Labs;38;30/8/2022;10%;Security;Series C;$123;United Kingdom
+Nate;30;30/8/2022;;Retail;Series A;$47;United States
+Meesho;300;29/8/2022;;Retail;Series F;$1,100;India
+54gene;95;29/8/2022;30%;Healthcare;Series B;$44;United States
+Fungible;;29/8/2022;;Crypto;Series C;$310;United States
+Skillz;;29/8/2022;;Consumer;Post-IPO;$287;United States
+Otonomo;;28/8/2022;;Transportation;Post-IPO;$231;Israel
+Zymergen;80;26/8/2022;;Other;Acquired;$974;United States
+Okta;24;26/8/2022;;Security;Post-IPO;$1,200;United States
+Argyle;20;26/8/2022;7%;Finance;Series B;$78;United States
+Better.com;;26/8/2022;;Real Estate;Unknown;$905;United States
+FreshDirect;40;25/8/2022;;Food;Acquired;$280;United States
+Loja Integrada;25;25/8/2022;10%;Retail;Acquired;;Brazil
+Impact.com;;25/8/2022;10%;Marketing;Private Equity;$361;United States
+ShipBob;;25/8/2022;7%;Logistics;Series E;$330;United States
+Reali;140;24/8/2022;100%;Real Estate;Series B;$117;United States
+Loop;15;24/8/2022;20%;Finance;Series A;$24;United States
+Pix;;24/8/2022;;Food;Unknown;;United States
+Tier Mobility;180;23/8/2022;16%;Transportation;Series D;$646;Germany
+Packable;138;23/8/2022;20%;Retail;Unknown;$472;United States
+Q4;50;23/8/2022;8%;Other;Series C;$91;Canada
+Skedulo;31;23/8/2022;8%;HR;Series C;$114;United States
+Plato;29;23/8/2022;50%;HR;Seed;$3;United States
+DataRobot;;23/8/2022;26%;Data;Series G;$1,000;United States
+Kogan;;23/8/2022;;Retail;Post-IPO;;Australia
+Skillshare;;23/8/2022;;Education;Unknown;$136;United States
+Mr. Yum;;22/8/2022;17%;Food;Series A;$73;United States
+ShopX;;22/8/2022;100%;Retail;Unknown;$56;India
+NSO;100;21/8/2022;14%;Security;Seed;$1;Israel
+Tufin;55;21/8/2022;10%;Security;Acquired;$21;United States
+Amperity;13;20/8/2022;3%;Marketing;Series D;$187;United States
+Wayfair;870;19/8/2022;5%;Retail;Post-IPO;$1,700;United States
+Stripe;50;19/8/2022;;Finance;Series H;$2,300;United States
+Hodlnaut;40;19/8/2022;80%;Crypto;Unknown;;Singapore
+New Relic;110;18/8/2022;5%;Infrastructure;Post-IPO;$214;United States
+Wheel;35;18/8/2022;17%;Healthcare;Series C;$215;United States
+Petal;;18/8/2022;;Finance;Series D;$704;United States
+Thirty Madison;;18/8/2022;10%;Healthcare;Series C;$209;United States
+Vendasta;;18/8/2022;5%;Marketing;Series D;$178;Canada
+Malwarebytes;125;17/8/2022;14%;Security;Series B;$80;United States
+Fluke;83;17/8/2022;82%;Other;Seed;;Brazil
+Swyftx;74;17/8/2022;21%;Crypto;Unknown;;Australia
+Tempo Automation;54;17/8/2022;;Other;Series C;$74;United States
+Genesis;52;17/8/2022;20%;Crypto;Series A;;United States
+Warren;50;17/8/2022;;Finance;Series C;$104;Brazil
+AlayaCare;80;16/8/2022;14%;Healthcare;Series D;$293;Canada
+Pliops;12;16/8/2022;9%;Data;Series D;$205;Israel
+Woven;5;16/8/2022;15%;HR;Series A;$11;United States
+Crypto.com;;16/8/2022;;Crypto;Unknown;$156;Singapore
+Edmodo;;16/8/2022;100%;Education;Acquired;$77;United States
+Snapdocs;;16/8/2022;10%;Real Estate;Series D;$253;United States
+Updater;;16/8/2022;;Other;Unknown;$467;United States
+Sema4;250;15/8/2022;13%;Healthcare;Post-IPO;$791;United States
+Blend;220;15/8/2022;12%;Finance;Post-IPO;$665;United States
+ContraFect;16;15/8/2022;37%;Healthcare;Post-IPO;$380;United States
+ThredUp;;15/8/2022;15%;Retail;Post-IPO;$305;United States
+Anywell;11;14/8/2022;;Real Estate;Series A;$15;Israel
+Almanac;;13/8/2022;;Other;Series A;$45;United States
+Peloton;784;12/8/2022;13%;Fitness;Post-IPO;$1,900;United States
+Core Scientific;;12/8/2022;10%;Crypto;Post-IPO;$169;United States
+Orbit;;12/8/2022;;Other;Series A;$20;United States
+Truepill;175;11/8/2022;33%;Healthcare;Series D;$255;United States
+Calm;90;11/8/2022;20%;Healthcare;Series C;$218;United States
+FourKites;60;11/8/2022;8%;Logistics;Series D;$201;United States
+Marketforce;54;11/8/2022;9%;Retail;Series A;$42;Kenya
+Betterfly;30;11/8/2022;;Healthcare;Series C;$204;Chile
+Expert360;7;11/8/2022;;Recruiting;Series C;$26;Australia
+Guidewire;;11/8/2022;2%;Finance;Post-IPO;$24;United States
+Trybe;47;10/8/2022;10%;Education;Series B;$40;Brazil
+Permutive;30;10/8/2022;12%;Marketing;Series C;$105;United Kingdom
+Homeward;;10/8/2022;20%;Real Estate;Series B;$160;United States
+Pollen;;10/8/2022;100%;Marketing;Series C;$238;United Kingdom
+Vedanta Biosciences;;10/8/2022;20%;Healthcare;Series D;$301;United States
+GoHealth;800;9/8/2022;20%;Healthcare;Post-IPO;$75;United States
+Hootsuite;400;9/8/2022;30%;Marketing;Series C;$300;Canada
+Nutanix;270;9/8/2022;4%;Infrastructure;Post-IPO;$1,100;United States
+Quanterix;130;9/8/2022;25%;Healthcare;Post-IPO;$533;United States
+Wix;100;9/8/2022;;Marketing;Post-IPO;$58;Israel
+MadeiraMadeira;60;9/8/2022;3%;Retail;Series E;$338;Brazil
+Melio;60;9/8/2022;;Finance;Series D;$504;United States
+Linktree;50;9/8/2022;17%;Consumer;Unknown;$165;Australia
+Shogun;48;9/8/2022;30%;Retail;Series C;$114;United States
+Absci;40;9/8/2022;;Healthcare;Post-IPO;$237;United States
+Dooly;12;9/8/2022;;Sales;Series B;$102;Canada
+Berkeley Lights;;9/8/2022;12%;Healthcare;Post-IPO;$272;United States
+DailyPay;;9/8/2022;15%;Finance;Unknown;$814;United States
+Haus;;9/8/2022;100%;Food;Seed;$7;United States
+Kaltura;;9/8/2022;10%;Media;Post-IPO;$166;United States
+Shift;;9/8/2022;;Transportation;Post-IPO;$504;United States
+Sweetgreen;;9/8/2022;;Food;Post-IPO;$478;United States
+Groupon;500;8/8/2022;15%;Retail;Post-IPO;$1,400;United States
+Loggi;500;8/8/2022;15%;Logistics;Series F;$507;Brazil
+Vroom;337;8/8/2022;;Transportation;Post-IPO;$1,300;United States
+Warby Parker;63;8/8/2022;;Consumer;Post-IPO;$535;United States
+Labelbox;36;8/8/2022;;Data;Series D;$188;United States
+Perion;20;8/8/2022;5%;Marketing;Post-IPO;$76;Israel
+Daily Harvest;;8/8/2022;15%;Food;Series D;$120;United States
+DataRobot;;8/8/2022;;Data;Series G;$1,000;United States
+iRobot;140;5/8/2022;10%;Consumer;Acquired;$30;United States
+Mejuri;50;5/8/2022;10%;Retail;Series B;$28;Canada
+Uberflip;31;5/8/2022;17%;Marketing;Series A;$42;Canada
+Slync;;5/8/2022;;Logistics;Series B;$76;United States
+Talkdesk;;5/8/2022;;Support;Series D;$497;United States
+Doma;250;4/8/2022;13%;Finance;Post-IPO;$679;United States
+Article;216;4/8/2022;17%;Retail;Series B;;Canada
+Jam City;200;4/8/2022;17%;Consumer;Unknown;$652;United States
+10X Genomics;100;4/8/2022;8%;Healthcare;Post-IPO;$242;United States
+LEAD;80;4/8/2022;4%;Education;Series E;$166;India
+Zendesk;80;4/8/2022;;Support;Acquired;$85;United States
+On Deck;73;4/8/2022;33%;Education;Series A;$20;United States
+RenoRun;70;4/8/2022;12%;Construction;Series B;$163;Canada
+RingCentral;50;4/8/2022;;Support;Post-IPO;$44;United States
+Medly;;4/8/2022;16%;Healthcare;Series C;$100;United States
+Nomad;;4/8/2022;20%;Finance;Series B;$290;Brazil
+StubHub;;4/8/2022;;Consumer;Acquired;$59;United States
+Weedmaps;;4/8/2022;10%;Other;Acquired;;United States
+Zenius;;4/8/2022;30%;Education;Series B;$20;Indonesia
+Healthcare.com;149;3/8/2022;;Healthcare;Series C;$244;United States
+Unbounce;47;3/8/2022;20%;Marketing;Series A;$39;Canada
+Beyond Meat;40;3/8/2022;4%;Food;Post-IPO;$122;United States
+The Org;13;3/8/2022;;HR;Series B;$39;United States
+CarDekho;;3/8/2022;;Transportation;Series E;$497;India
+Puppet;;3/8/2022;15%;Infrastructure;Acquired;$189;United States
+SoundCloud;;3/8/2022;20%;Consumer;Unknown;$542;Germany
+Talkwalker;;3/8/2022;15%;Marketing;Private Equity;$9;Luxembourg
+Robinhood;713;2/8/2022;23%;Finance;Post-IPO;$5,600;United States
+Latch;115;2/8/2022;37%;Security;Post-IPO;$342;United States
+Vedantu;100;2/8/2022;;Education;Series E;$292;India
+Seegrid;90;2/8/2022;;Logistics;Unknown;$107;United States
+Nylas;80;2/8/2022;25%;Product;Series C;$175;United States
+Outreach;60;2/8/2022;5%;Sales;Series G;$489;United States
+Sendy;54;2/8/2022;20%;Logistics;Series B;$26;Kenya
+The Predictive Index;40;2/8/2022;;HR;Acquired;$71;United States
+Sendy;30;2/8/2022;10%;Logistics;Series B;$26;Kenya
+Stedi;23;2/8/2022;30%;Product;Series B;$75;United States
+Glossier;19;2/8/2022;8%;Retail;Series E;$266;United States
+Butterfly Network;;2/8/2022;10%;Healthcare;Post-IPO;$530;United States
+FuboTV;;2/8/2022;;Media;Post-IPO;$151;United States
+Hash;58;1/8/2022;50%;Finance;Series C;$58;Brazil
+Classkick;;1/8/2022;;Education;Seed;$1;United States
+DeHaat;;1/8/2022;;Food;Series D;$194;India
+OnlyFans;;1/8/2022;;Media;Unknown;;United Kingdom
+Oracle;;1/8/2022;;Other;Post-IPO;;United States
+Perceptive Automata;;1/8/2022;100%;Transportation;Series A;$20;United States
+Whereby;;1/8/2022;;Other;Series A;$10;Norway
+Metigy;75;31/7/2022;100%;Marketing;Series B;$18;Australia
+Vee;16;31/7/2022;32%;HR;Seed;$15;Israel
+Gatherly;;31/7/2022;50%;Marketing;;;United States
+Ola;1000;29/7/2022;;Transportation;Series J;$5,000;India
+Clearco;125;29/7/2022;25%;Finance;Series C;$681;Canada
+Imperfect Foods;50;29/7/2022;;Food;Series D;$229;United States
+Shelf Engine;43;29/7/2022;;Food;Series B;$58;United States
+Quantcast;40;29/7/2022;6%;Marketing;Series C;$65;United States
+Sherpa;22;29/7/2022;;Travel;Unknown;$11;Canada
+CoinFLEX;;29/7/2022;;Crypto;Unknown;$11;Seychelles
+MissFresh;;29/7/2022;;Food;Post-IPO;$1,700;China
+Yabonza;;29/7/2022;100%;Real Estate;Unknown;$6;Australia
+Ribbon;136;28/7/2022;;Real Estate;Series C;$405;United States
+Career Karma;60;28/7/2022;33%;Education;Series B;$51;United States
+Metromile;60;28/7/2022;20%;Finance;Acquired;$510;United States
+Laybuy;45;28/7/2022;;Finance;Post-IPO;$130;New Zealand
+Allbirds;23;28/7/2022;;Retail;Post-IPO;$202;United States
+TextNow;22;28/7/2022;;Consumer;Seed;$1;Canada
+2U;;28/7/2022;20%;Education;Post-IPO;$426;United States
+Bikayi;;28/7/2022;;Retail;Series A;$12;India
+Brainbase;;28/7/2022;;Sales;Series A;$12;United States
+Change.org;;28/7/2022;19%;Other;Series D;$72;United States
+Tapas Media;;28/7/2022;;Media;Acquired;$17;United States
+Turntide;;28/7/2022;20%;Energy;Unknown;$491;United States
+Rivian;840;27/7/2022;6%;Transportation;Post-IPO;$10,700;United States
+Vox Media;39;27/7/2022;2%;Media;Series F;$307;United States
+Coinsquare;30;27/7/2022;24%;Crypto;Unknown;$98;Canada
+Skai;30;27/7/2022;4%;Marketing;Series E;$60;Israel
+Shopify;1000;26/7/2022;10%;Retail;Post-IPO;$122;Canada
+McMakler;90;26/7/2022;;Real Estate;Unknown;$214;Germany
+Fiverr;60;26/7/2022;8%;Other;Post-IPO;$111;Israel
+InDebted;40;26/7/2022;17%;Finance;Series B;$41;Australia
+Outbrain;38;26/7/2022;3%;Marketing;Post-IPO;$394;United States
+Dover;23;26/7/2022;30%;Recruiting;Series A;$22;United States
+Immutable;20;26/7/2022;6%;Crypto;Series C;$279;Australia
+Zymergen;80;25/7/2022;;Other;Acquired;$974;United States
+Pear Therapeutics;25;25/7/2022;9%;Healthcare;Post-IPO;$409;United States
+Included Health;;25/7/2022;6%;Healthcare;Series E;$272;United States
+Soluto;120;24/7/2022;100%;Support;Acquired;$18;Israel
+Eucalyptus;50;22/7/2022;20%;Healthcare;Series C;$69;United States
+Workstream;45;22/7/2022;;HR;Series B;$58;United States
+Quanto;28;22/7/2022;22%;Finance;Series A;$15;Brazil
+Clarify Health;15;22/7/2022;5%;Healthcare;Series D;$328;United States
+Arete;;22/7/2022;;Security;Unknown;;United States
+Boosted Commerce;;22/7/2022;5%;Retail;Series B;$137;United States
+Owlet;;22/7/2022;;Healthcare;Post-IPO;$178;United States
+People.ai;;22/7/2022;;Sales;Series D;$200;United States
+Wizeline;;22/7/2022;;Product;Acquired;$62;United States
+Blockchain.com;150;21/7/2022;25%;Crypto;Series D;$490;United Kingdom
+Callisto Media;140;21/7/2022;35%;Media;Series D;;United States
+AppGate;130;21/7/2022;22%;Security;Post-IPO;;United States
+WHOOP;95;21/7/2022;15%;Fitness;Series F;$404;United States
+Rad Power Bikes;63;21/7/2022;10%;Transportation;Series D;$329;United States
+Lunchbox;60;21/7/2022;33%;Food;Series B;$72;United States
+RealSelf;11;21/7/2022;5%;Healthcare;Series B;$42;United States
+98point6;;21/7/2022;10%;Healthcare;Series E;$247;United States
+Catalyst;;21/7/2022;;Support;Series B;$45;United States
+InVision;;21/7/2022;50%;Product;Series F;$356;United States
+Mural;;21/7/2022;;Product;Series C;$192;United States
+Smarsh;;21/7/2022;;Other;Private Equity;;United States
+Just Eat Takeaway;390;20/7/2022;;Food;Post-IPO;$2,800;Netherlands
+Flyhomes;200;20/7/2022;20%;Real Estate;Series C;$310;United States
+Varo;75;20/7/2022;;Finance;Series E;$992;United States
+BlueStacks;60;20/7/2022;;Other;Series C;$48;United States
+Lyft;60;20/7/2022;2%;Transportation;Post-IPO;$4,900;United States
+Introhive;57;20/7/2022;16%;Sales;Series C;$125;Canada
+Zencity;30;20/7/2022;20%;Other;Unknown;$51;Israel
+Splice;23;20/7/2022;;Media;Series D;$159;United States
+Forma.ai;15;20/7/2022;9%;Sales;Series B;$58;Canada
+Arc;13;20/7/2022;;HR;Seed;$1;United States
+Invitae;1000;19/7/2022;;Healthcare;Post-IPO;$2,000;United States
+Olive;450;19/7/2022;31%;Healthcare;Series H;$856;United States
+M1;38;19/7/2022;;Finance;Series E;$323;United States
+SellerX;28;19/7/2022;;Retail;Unknown;$766;Germany
+Stint;28;19/7/2022;20%;HR;Unknown;;United Kingdom
+Capsule;;19/7/2022;13%;Healthcare;Series D;$570;United States
+PACT Pharma;94;18/7/2022;;Healthcare;Series C;$200;United States
+Gemini;68;18/7/2022;7%;Crypto;Unknown;$423;United States
+Lusha;30;18/7/2022;10%;Marketing;Series B;$245;United States
+Elemy;;18/7/2022;;Healthcare;Series B;$323;United States
+Freshly;;18/7/2022;25%;Food;Acquired;$107;United States
+Hydrow;;18/7/2022;35%;Fitness;Series D;$269;United States
+TikTok;;18/7/2022;;Consumer;Acquired;;United States
+Vimeo;;18/7/2022;6%;Consumer;Post-IPO;$450;United States
+Bright Money;100;15/7/2022;50%;Finance;Series A;$31;India
+Project44;63;15/7/2022;5%;Logistics;Unknown;$817;United States
+Heroes;24;15/7/2022;20%;Retail;Unknown;$265;United States
+Aspire;23;15/7/2022;;Marketing;Series A;$27;United States
+StyleSeat;;15/7/2022;17%;Consumer;Series C;$40;United States
+Zego;85;14/7/2022;17%;Finance;Series C;$202;United Kingdom
+The Mom Project;54;14/7/2022;15%;HR;Series C;$115;United States
+Unstoppable Domains;42;14/7/2022;25%;Crypto;Series B;$7;United States
+Kiavi;39;14/7/2022;7%;Real Estate;Series E;$240;United States
+Alto Pharmacy;;14/7/2022;;Healthcare;Series E;$560;United States
+Cosuno;;14/7/2022;;Construction;Series B;$45;Germany
+OpenSea;;14/7/2022;20%;Crypto;Series C;$427;United States
+Wave;300;13/7/2022;15%;Finance;Series A;$292;Senegal
+Tonal;262;13/7/2022;35%;Fitness;Series E;$450;United States
+Fabric;120;13/7/2022;40%;Logistics;Series C;$336;United States
+Bryter;100;13/7/2022;30%;Product;Series B;$89;Germany
+ChowNow;100;13/7/2022;20%;Food;Series C;$64;United States
+Involves;70;13/7/2022;18%;Retail;Unknown;$23;Brazil
+100 Thieves;12;13/7/2022;;Consumer;Series C;$120;United States
+Nuro;7;13/7/2022;;Transportation;Series D;$2,100;United States
+Arrival;;13/7/2022;30%;Transportation;Post-IPO;$629;United Kingdom
+CircleUp;;13/7/2022;;Finance;Series C;$53;United States
+Papa;;13/7/2022;15%;Other;Series D;$241;United States
+Gopuff;1500;12/7/2022;10%;Food;Series H;$3,400;United States
+Fraazo;150;12/7/2022;;Food;Series B;$63;India
+Babylon;100;12/7/2022;;Healthcare;Post-IPO;$1,100;United Kingdom
+Hubilo;45;12/7/2022;12%;Marketing;Series B;$153;United States
+Airlift;;12/7/2022;100%;Logistics;Series B;$109;Pakistan
+Microsoft;;12/7/2022;;Other;Post-IPO;$1;United States
+Spring;;12/7/2022;;Retail;Unknown;$61;United States
+Hopin;242;11/7/2022;29%;Other;Series D;$1,000;United Kingdom
+Alice;63;11/7/2022;;Healthcare;Series C;$174;Brazil
+SundaySky;24;11/7/2022;13%;Marketing;Series D;$74;United States
+Apeel Sciences;;11/7/2022;;Food;Series E;$640;United States
+Forward;;11/7/2022;5%;Healthcare;Series D;$225;United States
+Ignite;;11/7/2022;50%;Crypto;Series A;$9;United States
+Nextbite;;9/7/2022;;Food;Series C;$150;United States
+PuduTech;1500;8/7/2022;;Other;Series C;$184;China
+Butler Hospitality;1000;8/7/2022;100%;Food;Series B;$50;United States
+Calibrate;156;8/7/2022;24%;Healthcare;Series B;$127;United States
+NextRoll;;8/7/2022;3%;Marketing;Unknown;$108;United States
+Argo AI;150;7/7/2022;5%;Transportation;Unknown;$3,600;United States
+Next Insurance;150;7/7/2022;17%;Finance;Series E;$881;United States
+Adwerx;40;7/7/2022;;Marketing;Unknown;$20;United States
+Emotive;30;7/7/2022;18%;Marketing;Series B;$78;United States
+Cedar;;7/7/2022;24%;Healthcare;Series D;$351;United States
+Twitter;;7/7/2022;;Consumer;Post-IPO;$5,700;United States
+Remote;100;6/7/2022;9%;HR;Series C;$496;United States
+Shopify;50;6/7/2022;;Retail;Post-IPO;$122;Canada
+Anodot;35;6/7/2022;27%;Data;Series C;$64;United States
+SQream;30;6/7/2022;18%;Data;Series B;$77;United States
+Anodot;15;6/7/2022;20%;Data;Series C;$64;United States
+Motif Foodworks;;6/7/2022;;Food;Series B;$344;United States
+Loft;384;5/7/2022;12%;Real Estate;Unknown;$788;Brazil
+Bizzabo;120;5/7/2022;30%;Marketing;Series E;$194;United States
+eToro;100;5/7/2022;6%;Finance;Unknown;$322;Israel
+Verbit;80;5/7/2022;10%;Data;Series E;$569;United States
+Outschool;31;5/7/2022;18%;Education;Series D;$240;United States
+Bullish;30;5/7/2022;8%;Crypto;Unknown;$300;Hong Kong
+Transmit Security;27;5/7/2022;7%;Security;Series A;$583;United States
+Thimble;20;5/7/2022;33%;Finance;Series A;$28;United States
+Syte;13;5/7/2022;8%;Retail;Series C;$71;Israel
+Lightricks;80;4/7/2022;12%;Consumer;Series D;$335;Israel
+Chessable;29;4/7/2022;;Consumer;Acquired;$0;United Kingdom
+Sendle;27;4/7/2022;12%;Logistics;Series C;$69;Australia
+Lendis;18;4/7/2022;15%;Other;Series A;$90;Germany
+Airtasker;;4/7/2022;;Consumer;Series C;$26;Australia
+Gorillas;540;3/7/2022;;Food;Series C;$1,300;Germany
+Celsius;150;3/7/2022;25%;Crypto;Series B;$864;United States
+LetsGetChecked;;2/7/2022;;Healthcare;Series D;$263;United States
+Perx Health;;2/7/2022;;Healthcare;Seed;$2;Australia
+Zepto;;2/7/2022;10%;Finance;Series A;$25;Australia
+WanderJaunt;85;1/7/2022;100%;Travel;Series B;$26;United States
+Canoo;58;1/7/2022;6%;Transportation;Post-IPO;$300;United States
+Bamboo Health;52;1/7/2022;;Healthcare;Unknown;;United States
+Teleport;15;1/7/2022;6%;Infrastructure;Series C;$169;United States
+Remesh;;1/7/2022;;Support;Series A;$38;United States
+Enjoy;400;30/6/2022;18%;Retail;Post-IPO;$310;United States
+Crejo.Fun;170;30/6/2022;100%;Education;Seed;$3;India
+Stash Financial;40;30/6/2022;8%;Finance;Unknown;$480;United States
+Nate;30;30/6/2022;20%;Retail;Series A;$47;United States
+Snyk;30;30/6/2022;;Security;Series F;$849;United States
+Stream;20;30/6/2022;12%;Product;Series B;$58;United States
+Finleap Connect;14;30/6/2022;10%;Finance;Series A;$22;Germany
+Abra;12;30/6/2022;5%;Crypto;Series C;$106;United States
+Gavelytics;;30/6/2022;100%;Legal;Seed;$5;United States
+Secfi;;30/6/2022;;Finance;Series A;$7;United States
+Sundae;;30/6/2022;15%;Real Estate;Series C;$135;United States
+Toppr;350;29/6/2022;;Education;Acquired;$112;India
+Unity;200;29/6/2022;4%;Other;Post-IPO;$1,300;United States
+Niantic;85;29/6/2022;8%;Consumer;Series D;$770;United States
+AvantStay;80;29/6/2022;;Travel;Unknown;$811;United States
+Qumulo;80;29/6/2022;19%;Data;Series E;$347;United States
+Clutch;76;29/6/2022;22%;Transportation;Series B;$153;Canada
+Parallel Wireless;60;29/6/2022;;Infrastructure;Unknown;$8;United States
+Oye Rickshaw;40;29/6/2022;20%;Transportation;Unknown;$13;India
+Rows;18;29/6/2022;30%;Other;Series B;$25;Germany
+Baton;16;29/6/2022;25%;Transportation;Series A;$13;United States
+Substack;13;29/6/2022;14%;Media;Series B;$82;United States
+CommentSold;;29/6/2022;;Retail;Unknown;;United States
+Degreed;;29/6/2022;15%;Education;Series D;$411;United States
+HomeLight;;29/6/2022;19%;Real Estate;Series D;$743;United States
+Modsy;;29/6/2022;;Retail;Series C;$72;United States
+Volt Bank;;29/6/2022;100%;Finance;Series E;$90;Australia
+Huobi;300;28/6/2022;30%;Crypto;Unknown;$2;China
+WhiteHat Jr;300;28/6/2022;;Education;Acquired;$11;India
+StockX;120;28/6/2022;8%;Retail;Series E;$690;United States
+Sidecar Health;110;28/6/2022;40%;Healthcare;Series C;$163;United States
+StockX;80;28/6/2022;;Retail;Series E;$690;United States
+Vezeeta;50;28/6/2022;10%;Healthcare;Series D;$71;United Arab Emirates
+Bright Machines;30;28/6/2022;8%;Data;Unknown;$250;Israel
+HealthMatch;18;28/6/2022;50%;Healthcare;Series B;$20;Australia
+Booktopia;;28/6/2022;;Retail;Series A;$23;Australia
+Nova Benefits;;28/6/2022;30%;Healthcare;Series B;$41;India
+Una Brands;;28/6/2022;10%;Retail;Series A;$55;Singapore
+AppLovin;300;27/6/2022;12%;Marketing;Post-IPO;$1,600;United States
+UiPath;210;27/6/2022;5%;Data;Post-IPO;$2,000;United States
+Udaan;180;27/6/2022;4%;Retail;Unknown;$1,500;India
+Cue;170;27/6/2022;;Healthcare;Post-IPO;$999;United States
+Banxa;70;27/6/2022;30%;Crypto;Post-IPO;$13;Australia
+SafeGraph;27;27/6/2022;25%;Data;Series B;$61;United States
+Amount;;27/6/2022;18%;Finance;Unknown;$283;United States
+Postscript;43;26/6/2022;;Marketing;Series C;$106;United States
+Bitpanda;270;24/6/2022;27%;Crypto;Series C;$546;Austria
+Sunday;90;24/6/2022;23%;Finance;Series A;$124;United States
+Bestow;41;24/6/2022;14%;Finance;Series C;$137;United States
+Ethos Life;40;24/6/2022;12%;Finance;Series D;$406;United States
+Feather;;24/6/2022;;Retail;Unknown;$76;United States
+Give Legacy;;24/6/2022;;Healthcare;Series B;$45;United States
+Netflix;300;23/6/2022;3%;Media;Post-IPO;$121,900;United States
+Aura;70;23/6/2022;9%;Security;Series F;$500;United States
+Pipl;22;23/6/2022;13%;Security;Unknown;$19;United States
+Vouch;15;23/6/2022;7%;Finance;Series C;$159;United States
+Voyage SMS;8;23/6/2022;13%;Marketing;Unknown;$10;United States
+Esper;;23/6/2022;12%;Other;Series A;$10;United States
+Kune;;23/6/2022;100%;Food;Seed;$1;Kenya
+Mark43;;23/6/2022;;Other;Series E;$229;United States
+Orchard;;23/6/2022;10%;Real Estate;Series D;$472;United States
+Ro;;23/6/2022;18%;Healthcare;Unknown;$1,000;United States
+StreamElements;;23/6/2022;20%;Media;Series B;$111;Israel
+MasterClass;120;22/6/2022;20%;Education;Series E;$461;United States
+IronNet;90;22/6/2022;35%;Security;Post-IPO;$410;United States
+Bungalow;70;22/6/2022;;Real Estate;Series C;$171;United States
+IronNet;55;22/6/2022;17%;Security;Post-IPO;$410;United States
+Sprinklr;50;22/6/2022;;Support;Post-IPO;$429;United States
+Superpedestrian;35;22/6/2022;7%;Transportation;Series C;$261;United States
+Voi;35;22/6/2022;10%;Transportation;Series D;$515;United States
+Balto;30;22/6/2022;;Sales;Series B;$51;United States
+Ritual;23;22/6/2022;16%;Food;Series C;$134;Canada
+Mindgeek;;22/6/2022;;Media;Unknown;;Luxembourg
+Voly;;22/6/2022;50%;Food;Seed;$13;Australia
+Ebanx;340;21/6/2022;20%;Finance;Series B;$460;Brazil
+TaskUs;52;21/6/2022;0%;Support;Post-IPO;$279;United States
+Community;40;21/6/2022;30%;Marketing;Unknown;$40;United States
+Sourcegraph;24;21/6/2022;8%;Product;Series D;$248;United States
+Frubana;;21/6/2022;3%;Food;Series C;$202;Colombia
+SuperLearn;;21/6/2022;100%;Education;Seed;$0;India
+Tray.io;;21/6/2022;10%;Data;Series C;$109;United States
+Bybit;600;20/6/2022;30%;Crypto;Unknown;;Singapore
+SummerBio;101;20/6/2022;100%;Healthcare;Unknown;$7;United States
+Trax;100;20/6/2022;12%;Retail;Series E;$1,000;Singapore
+Aqgromalin;80;20/6/2022;30%;Food;Unknown;$12;India
+Bonsai;30;20/6/2022;55%;Retail;Series A;$27;Canada
+Brighte;30;20/6/2022;15%;Energy;Series C;$145;Australia
+Buzzer;;20/6/2022;20%;Media;Unknown;$32;United States
+Bybit;;20/6/2022;;Crypto;Unknown;;Singapore
+CityMall;191;19/6/2022;30%;Retail;Series C;$112;India
+BitOasis;9;19/6/2022;5%;Crypto;Series B;$30;United Arab Emirates
+Unacademy;150;18/6/2022;3%;Education;Series H;$838;India
+Bytedance;150;17/6/2022;;Consumer;Unknown;$9,400;China
+Socure;69;17/6/2022;13%;Finance;Series E;$646;United States
+Finite State;16;17/6/2022;20%;Security;Series B;$49;United States
+JOKR;50;16/6/2022;5%;Food;Series B;$430;United States
+Zumper;45;16/6/2022;15%;Real Estate;Series D;$178;United States
+PharmEasy;40;16/6/2022;;Healthcare;Unknown;$1,600;India
+Circulo Health;;16/6/2022;50%;Healthcare;Series A;$50;United States
+Swappie;250;15/6/2022;17%;Retail;Series C;$169;Finland
+Wealthsimple;159;15/6/2022;13%;Finance;Unknown;$900;Canada
+Weee!;150;15/6/2022;10%;Food;Series E;$863;United States
+Notarize;110;15/6/2022;25%;Legal;Series D;$213;United States
+Elementor;60;15/6/2022;15%;Media;Unknown;$65;Israel
+Tonkean;23;15/6/2022;23%;Other;Series B;$83;United States
+Airtame;15;15/6/2022;;Consumer;Unknown;$7;Denmark
+OpenWeb;14;15/6/2022;5%;Media;Series E;$223;Israel
+Swyft;10;15/6/2022;30%;Logistics;Series A;$20;Canada
+Crehana;;15/6/2022;;Education;Series B;$93;Peru
+JetClosing;;15/6/2022;100%;Real Estate;Series B;$44;United States
+Coinbase;1100;14/6/2022;18%;Crypto;Post-IPO;$549;United States
+Redfin;470;14/6/2022;8%;Real Estate;Post-IPO;$319;United States
+Compass;450;14/6/2022;10%;Real Estate;Post-IPO;$1,600;United States
+Sami;75;14/6/2022;15%;Healthcare;Unknown;$36;Brazil
+Breathe;50;14/6/2022;33%;Healthcare;Series A;$6;India
+Hunty;30;14/6/2022;;HR;Seed;$6;Colombia
+TIFIN;24;14/6/2022;10%;Crypto;Series D;$204;United States
+Addi;;14/6/2022;;Finance;Series C;$376;Colombia
+Shopee;;14/6/2022;;Food;Unknown;;Singapore
+BlockFi;250;13/6/2022;20%;Crypto;Series E;$1,000;United States
+Wave Sports and Entertainment;56;13/6/2022;33%;Media;Series B;$65;United States
+Studio;33;13/6/2022;40%;Education;Series B;$50;United States
+Automox;;13/6/2022;;Infrastructure;Series C;$152;United States
+Desktop Metal;;13/6/2022;12%;Other;Post-IPO;$811;United States
+Crypto.com;260;10/6/2022;5%;Crypto;Unknown;$156;Singapore
+FarEye;250;10/6/2022;30%;Logistics;Series E;$150;India
+Berlin Brands Group;100;10/6/2022;10%;Retail;Unknown;$1,000;Germany
+Sanar;60;10/6/2022;20%;Healthcare;Unknown;$11;Brazil
+Freetrade;45;10/6/2022;15%;Finance;Unknown;$133;United Kingdom
+Albert;20;10/6/2022;8%;Finance;Series C;$175;United States
+Keepe;;10/6/2022;;Real Estate;Unknown;$6;United States
+Liongard;;10/6/2022;;Infrastructure;Series B;$22;United States
+Ziroom;;10/6/2022;20%;Real Estate;Unknown;$2,100;China
+OneTrust;950;9/6/2022;25%;Security;Series C;$926;United States
+Stitch Fix;330;9/6/2022;15%;Retail;Post-IPO;$79;United States
+Daniel Wellington;200;9/6/2022;15%;Retail;Unknown;;Sweden
+Convoy;90;9/6/2022;7%;Logistics;Series E;$1,100;United States
+Hologram;80;9/6/2022;40%;Infrastructure;Series B;$82;United States
+Boozt;70;9/6/2022;5%;Retail;Post-IPO;$56;Sweden
+The Grommet;40;9/6/2022;100%;Retail;Acquired;$5;United States
+Stashaway;31;9/6/2022;14%;Finance;Series D;$61;Singapore
+Preply;26;9/6/2022;5%;Education;Series C;$100;United States
+Jellysmack;;9/6/2022;8%;Media;Series C;$22;United States
+Starship;;9/6/2022;11%;Transportation;Series B;$197;United States
+Trade Republic;;9/6/2022;;Finance;Series C;$1,200;Germany
+Sonder;250;8/6/2022;21%;Travel;Post-IPO;$839;United States
+Kavak;150;8/6/2022;;Transportation;Series E;$1,600;Brazil
+Truepill;150;8/6/2022;15%;Healthcare;Series D;$255;United States
+iPrice Group;50;8/6/2022;20%;Retail;Unknown;$26;Malaysia
+Memmo;;8/6/2022;40%;Consumer;Unknown;$24;Sweden
+Cazoo;750;7/6/2022;15%;Transportation;Post-IPO;$2,000;United Kingdom
+Cazoo;750;7/6/2022;15%;Transportation;Post-IPO;$2,000;United Kingdom
+Rupeek;180;7/6/2022;15%;Finance;Unknown;$172;India
+Lummo;150;7/6/2022;;Marketing;Series C;$149;Indonesia
+Bird;138;7/6/2022;23%;Transportation;Post-IPO;$783;United States
+ID.me;130;7/6/2022;;Security;Unknown;$275;United States
+KiwiCo;40;7/6/2022;;Retail;Unknown;$11;United States
+Bond;;7/6/2022;;Finance;Series A;$42;United States
+CyberCube;;7/6/2022;;Finance;Series B;$35;United States
+Propzy;;7/6/2022;50%;Real Estate;Series A;$33;Vietnam
+Clearco;60;6/6/2022;;Finance;Series C;$681;Canada
+Dutchie;50;6/6/2022;7%;Other;Series D;$603;United States
+Clearco;;6/6/2022;;Finance;Series C;$681;Ireland
+Deep Instinct;;6/6/2022;10%;Security;Series D;$259;United States
+Sendoso;;6/6/2022;14%;Marketing;Series C;$152;United States
+Eruditus;40;4/6/2022;;Education;Series E;$1,200;India
+Afterverse;60;3/6/2022;20%;Consumer;Unknown;;Brazil
+Superhuman;23;3/6/2022;22%;Consumer;Series C;$108;United States
+Food52;21;3/6/2022;15%;Food;Acquired;$176;United States
+5B Solar;;3/6/2022;25%;Energy;Series A;$12;Australia
+Clubhouse;;3/6/2022;;Consumer;Series C;$110;United States
+Tesla;;3/6/2022;10%;Transportation;Post-IPO;$20,200;United States
+Carbon Health;250;2/6/2022;8%;Healthcare;Series D;$522;United States
+Favo;170;2/6/2022;;Food;Series A;$31;Brazil
+PolicyGenius;170;2/6/2022;25%;Finance;Series E;$286;United States
+Yojak;140;2/6/2022;50%;Construction;Seed;$3;India
+Envato;100;2/6/2022;;Marketing;Unknown;;Australia
+Gemini;100;2/6/2022;10%;Crypto;Unknown;$423;United States
+Stord;59;2/6/2022;8%;Logistics;Series D;$325;United States
+Gather;30;2/6/2022;33%;Consumer;Series B;$76;United States
+Shef;29;2/6/2022;;Food;Series A;$28;United States
+IRL;25;2/6/2022;25%;Consumer;Series C;$197;United States
+Esme Learning;;2/6/2022;;Education;Unknown;$37;United States
+Kaodim;;2/6/2022;100%;Consumer;Series B;$17;United States
+Rain;;2/6/2022;;Finance;Series B;$202;Bahrain
+TomTom;500;1/6/2022;10%;Transportation;Post-IPO;;Netherlands
+Cybereason;100;1/6/2022;6%;Security;Series F;$750;United States
+Udayy;100;1/6/2022;100%;Education;Seed;$2;India
+2TM;90;1/6/2022;12%;Crypto;Unknown;$250;Brazil
+Curve;65;1/6/2022;10%;Finance;Series C;$182;United Kingdom
+Loom;34;1/6/2022;14%;Product;Series C;$203;United States
+Skillshare;31;1/6/2022;;Education;Unknown;$136;United States
+Impala;30;1/6/2022;35%;Travel;Series B;$32;United Kingdom
+Eaze;25;1/6/2022;;Consumer;Series D;$202;United States
+Side;;1/6/2022;10%;Real Estate;Unknown;$313;United States
+Truck It In;;1/6/2022;30%;Logistics;Seed;$17;Pakistan
+Playtika;250;31/5/2022;6%;Consumer;Post-IPO;;Israel
+Replicated;50;31/5/2022;;Infrastructure;Series C;$85;United States
+Tomo;44;31/5/2022;33%;Finance;Series A;$110;United States
+Getta;30;31/5/2022;;Transportation;Series A;$49;Israel
+BookClub;12;31/5/2022;25%;Education;Series A;$26;United States
+Cerebral;;31/5/2022;;Healthcare;Series C;$462;United States
+SWVL;400;30/5/2022;32%;Transportation;Post-IPO;$132;United Arab Emirates
+Mobile Premier League;100;30/5/2022;10%;Consumer;Series E;$375;India
+SumUp;100;30/5/2022;3%;Finance;Unknown;$50;Brazil
+Tempus Ex;;30/5/2022;;Data;Unknown;$36;United States
+FrontRow;145;27/5/2022;30%;Education;Series A;$17;India
+Daloopa;40;27/5/2022;;Data;Series A;$23;India
+Uncapped;29;27/5/2022;26%;Finance;Unknown;$118;United Kingdom
+Akerna;;27/5/2022;;Logistics;Unknown;$46;United States
+Terminus;;27/5/2022;;Marketing;Series C;$120;United States
+Terminus;;27/5/2022;;Marketing;Unknown;$192;United States
+VTEX;200;26/5/2022;13%;Retail;Post-IPO;$365;Brazil
+Bitso;80;26/5/2022;11%;Crypto;Series C;$378;Mexico
+Foodpanda;80;26/5/2022;;Food;Acquired;$749;Romania
+Dazn;50;26/5/2022;2%;Consumer;Unknown;;United Kingdom
+Lacework;300;25/5/2022;20%;Security;Series D;$1,900;United States
+Bolt;240;25/5/2022;27%;Finance;Series E;$1,300;United States
+PeerStreet;75;25/5/2022;;Finance;Series C;$121;United States
+Kontist;50;25/5/2022;25%;Finance;Series B;$53;Germany
+Nuri;45;25/5/2022;20%;Finance;Series B;$42;Germany
+Coterie Insurance;30;25/5/2022;20%;Finance;Series B;$70;United States
+Airlift;;25/5/2022;31%;Logistics;Series B;$109;Pakistan
+Getir;;25/5/2022;14%;Food;Series E;$1,800;Turkey
+Zapp;;25/5/2022;10%;Food;;$300;United Kingdom
+Gorillas;300;24/5/2022;50%;Food;Series C;$1,300;Germany
+Zenius;200;24/5/2022;;Education;Series B;$20;Indonesia
+The Zebra;40;24/5/2022;;Finance;Series D;$256;United States
+Klarna;700;23/5/2022;10%;Finance;Unknown;$3,700;Sweden
+PayPal;83;23/5/2022;;Finance;Post-IPO;$216;United States
+Buenbit;80;23/5/2022;45%;Crypto;Series A;$11;Argentina
+BeyondMinds;65;23/5/2022;100%;Data;Series A;$16;Israel
+ClickUp;60;23/5/2022;7%;Other;Series C;$537;United States
+Airtime;30;23/5/2022;20%;Consumer;Series B;$33;United States
+Olist;;23/5/2022;;Retail;Series E;$322;Brazil
+MFine;600;21/5/2022;75%;Healthcare;Series C;$97;India
+Latch;130;20/5/2022;28%;Security;Post-IPO;$342;United States
+Outside;87;20/5/2022;15%;Media;Series B;$174;United States
+Skillz;70;20/5/2022;10%;Consumer;Post-IPO;$287;United States
+Cars24;600;19/5/2022;6%;Transportation;Series G;$1,300;India
+Vedantu;424;18/5/2022;7%;Education;Series E;$292;India
+Netflix;150;17/5/2022;1%;Media;Post-IPO;$121,900;United States
+Kry;100;17/5/2022;10%;Healthcare;Series D;$568;Sweden
+Picsart;90;17/5/2022;8%;Consumer;Series C;$195;United States
+Zak;100;16/5/2022;40%;Food;Series A;$29;United States
+Zulily;;16/5/2022;;Retail;Acquired;$194;United States
+AliExpress Russia;400;14/5/2022;40%;Retail;Acquired;$60;Russia
+Thirty Madison;24;14/5/2022;;Healthcare;Acquired;$209;United States
+CommonBond;22;13/5/2022;;Finance;Series D;$130;United States
+Subspace;;13/5/2022;100%;Infrastructure;Series B;;United States
+Zwift;150;12/5/2022;;Fitness;Series C;$619;United States
+Section4;32;12/5/2022;;Education;Series A;$37;United States
+Tripwire;;12/5/2022;;Security;Acquired;$29;United States
+DataRobot;70;11/5/2022;7%;Data;Series G;$1,000;United States
+Carvana;2500;10/5/2022;12%;Transportation;Post-IPO;$1,600;United States
+Doma;310;10/5/2022;15%;Finance;Post-IPO;$679;United States
+Pollen;200;10/5/2022;33%;Travel;Series C;$238;United Kingdom
+Latch;30;10/5/2022;6%;Security;Post-IPO;$342;United States
+Meero;350;9/5/2022;50%;Other;Series C;$293;France
+Vroom;270;9/5/2022;14%;Transportation;Post-IPO;$1,300;United States
+Reef;750;6/5/2022;5%;Transportation;Unknown;$1,500;United States
+divvyDOSE;62;6/5/2022;;Healthcare;Acquired;$0;United States
+Vedantu;200;5/5/2022;3%;Education;Series E;$292;India
+Progrexion;100;5/5/2022;;Finance;Acquired;$202;United States
+Mural;90;5/5/2022;10%;Product;Series C;$192;United States
+On Deck;72;5/5/2022;25%;Education;Series A;$20;United States
+SEND;300;4/5/2022;100%;Food;Seed;$3;Australia
+Colossus;97;4/5/2022;;Energy;Series A;$41;United States
+Cameo;87;4/5/2022;25%;Consumer;Unknown;$165;United States
+Mainstreet;45;4/5/2022;30%;Finance;Series A;$64;United States
+Ideoclick;40;4/5/2022;;Retail;Series A;$7;United States
+Vise;25;4/5/2022;;Finance;Series C;$128;United States
+Bizpay;;4/5/2022;30%;Finance;Unknown;$45;Australia
+Thrasio;;2/5/2022;;Retail;Unknown;$3,400;United States
+Avo;500;1/5/2022;67%;Food;Series B;$45;Israel
+Noom;495;29/4/2022;;Healthcare;Series F;$657;United States
+Domestika;150;28/4/2022;19%;Education;Series D;$130;United States
+Netflix;25;28/4/2022;;Media;Post-IPO;$121,900;United States
+Wahoo Fitness;50;27/4/2022;;Fitness;Unknown;;United States
+Robinhood;340;26/4/2022;9%;Finance;Post-IPO;$5,600;United States
+Bonsai;29;26/4/2022;34%;Retail;Series A;$27;Canada
+Sigfox;64;25/4/2022;;Other;Acquired;$277;France
+Clyde;22;25/4/2022;;Marketing;Series B;$58;United States
+Xiaohongshu;180;21/4/2022;9%;Consumer;Series E;$917;China
+Facily;260;20/4/2022;30%;Retail;Series D;$502;Brazil
+Lemonade;52;20/4/2022;;Finance;Post-IPO;$481;United States
+Blend;200;19/4/2022;10%;Finance;Post-IPO;$665;United States
+QuintoAndar;160;19/4/2022;4%;Real Estate;Series E;$755;Brazil
+Loft;159;19/4/2022;;Real Estate;Unknown;$788;Brazil
+Better.com;;19/4/2022;;Real Estate;Unknown;$905;United States
+Automox;;18/4/2022;11%;Infrastructure;Series C;$152;United States
+Humble;10;15/4/2022;;Media;Acquired;$4;United States
+Halcyon Health;;15/4/2022;100%;Healthcare;Unknown;$2;United States
+Ahead;44;14/4/2022;100%;Healthcare;Unknown;$9;United States
+Truepill;;14/4/2022;;Healthcare;Series D;$255;United States
+Rad Power Bikes;100;12/4/2022;14%;Transportation;Series D;$329;United States
+Meesho;150;11/4/2022;;Retail;Series F;$1,100;India
+Food52;20;8/4/2022;10%;Food;Acquired;$176;United States
+Unacademy;1000;7/4/2022;17%;Education;Series H;$838;India
+Goodfood;70;7/4/2022;;Food;Post-IPO;$16;Canada
+Workrise;450;5/4/2022;;Energy;Series E;$752;United States
+Fast;;5/4/2022;100%;Finance;Series B;$124;United States
+BitMEX;75;4/4/2022;25%;Crypto;Seed;$0;Seychelles
+Legible;23;4/4/2022;38%;Media;Post-IPO;$3;Canada
+Lightico;20;31/3/2022;;Finance;Series B;$42;Israel
+Sea;350;30/3/2022;;Retail;Post-IPO;$8,600;India
+Rasa;59;30/3/2022;40%;Data;Series B;$40;Germany
+Gopuff;450;29/3/2022;3%;Food;Series H;$3,400;United States
+Thinkific;100;29/3/2022;20%;Education;Post-IPO;$22;Canada
+Furlenco;180;26/3/2022;;Retail;Series D;$228;India
+Grove Collaborative;;19/3/2022;17%;Retail;Series E;$474;United States
+Storytel;100;17/3/2022;10%;Media;Post-IPO;$275;Sweden
+Curology;150;16/3/2022;;Healthcare;Series D;$19;United States
+Trell;300;15/3/2022;50%;Retail;Series B;$62;India
+Knock;115;15/3/2022;46%;Real Estate;Unknown;$654;United States
+Talis Biomedical;;15/3/2022;25%;Healthcare;Post-IPO;$8;United States
+Sezzle;;10/3/2022;20%;Finance;Post-IPO;$301;United States
+Better.com;3000;8/3/2022;33%;Real Estate;Unknown;$905;United States
+Adaptive Biotechnologies;100;8/3/2022;12%;Healthcare;Post-IPO;$406;United States
+Hyperscience;100;3/3/2022;25%;Data;Series E;$289;United States
+WeDoctor;500;2/3/2022;;Healthcare;Series F;$1,400;China
+Wish;190;1/3/2022;15%;Retail;Post-IPO;$1,600;United States
+iFit;;25/2/2022;;Fitness;Private Equity;$200;United States
+OKCredit;30;24/2/2022;;Finance;Series B;$85;India
+Lido;150;21/2/2022;;Education;Series A;$24;India
+Virgin Hyperloop;111;21/2/2022;50%;Transportation;Unknown;$368;United States
+Trustly;120;17/2/2022;;Finance;Acquired;$28;Sweden
+Liv Up;100;16/2/2022;15%;Food;Series D;$118;Brazil
+Homie;119;14/2/2022;29%;Real Estate;Series B;$35;United States
+Hopin;138;10/2/2022;12%;Other;Series D;$1,000;United States
+Daily Harvest;60;10/2/2022;20%;Food;Series D;$120;United States
+Peloton;2800;8/2/2022;20%;Fitness;Post-IPO;$1,900;United States
+Defined.ai;;7/2/2022;;Data;Series B;$78;United States
+Rhino;57;3/2/2022;20%;Real Estate;Unknown;$133;United States
+Gopuff;100;26/1/2022;;Food;Series H;$3,400;United States
+Glossier;80;26/1/2022;33%;Consumer;Series E;$266;United States
+Root Insurance;330;20/1/2022;;Finance;Post-IPO;$527;United States
+Spin;;8/1/2022;25%;Transportation;Acquired;$8;United States
